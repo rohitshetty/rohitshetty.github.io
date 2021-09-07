@@ -1,0 +1,15 @@
+baseURL = 'https://rohitshetty.github.io'
+languageCode = 'en-us'
+title = '$ls /me/'
+
+theme = 'hugo-journal'
+
+[params]
+  description = "Journal about projects and ideas, mainly for myself"
+  githubUsername = "rohitshetty"
+  twitterUsername = "rohitfoss0"
+  tagline = "Journal about work, projects, coffee and everything else"
+[params.work]
+  jobTitle = "Business Manager & Developer"
+  company = "Beneath A Tree"
+  companyUrl = "https://beneathatree.com/"
