@@ -7,9 +7,8 @@ theme = 'hugo-journal'
 [params]
   description = "Journal about projects and ideas, mainly for myself"
   githubUsername = "rohitshetty"
-  twitterUsername = "rohitfoss00"
-  tagline = "Journal about work, projects, coffee and everything else"
+  tagline = "Journal about work, not work, projects, coffee and everything else"
 [params.work]
-  jobTitle = "Business Manager & Developer"
+  jobTitle = "Developer"
   company = "Beneath A Tree"
   companyUrl = "https://beneathatree.com/"
