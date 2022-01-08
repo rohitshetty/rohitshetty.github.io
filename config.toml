@@ -3,7 +3,8 @@ languageCode = 'en-us'
 title = '$ls /me/'
 
 theme = 'hugo-journal'
-
+[author]
+  name = "Rohit"
 [params]
   description = "Journal about projects and ideas, mainly for myself"
   githubUsername = "rohitshetty"
