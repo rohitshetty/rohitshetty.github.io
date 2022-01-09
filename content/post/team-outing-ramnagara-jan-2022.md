@@ -27,7 +27,7 @@ We reached our destination by 11 am and, had a quick and delicious breakfast.
 {{< /gallery >}}
 
 
-While waiting for everyone to finish their breakfast, some of us decided to play with the dogs. We enjoyed spending time with these dogs before we got ready for the day. Each of these little cuties are amazing to play. Full of excitement and energy, they would zoom through the lawn. 
+While waiting for everyone to finish their breakfast, some of us decided to play with the dogs. We enjoyed spending time with these dogs before we got ready for the day. Each of these little cuties are amazing to play with. Full of excitement and energy, they would zoom through the lawn. 
 They love playing fetch. The biggest of these, Maggie, loves racing us and then tackling us down if she can. 
 
 {{< gallery caption-position="bottom" caption-effect="none" >}}
@@ -54,7 +54,7 @@ Seeing us clueless folks, a local guardian spirit in the form of a stray dog dec
 {{< gallery caption-position="bottom" caption-effect="none" >}}
 {{<figure src="/images/ramnagara-jan-2022/firefox-the-guardian-of-the-hills.jpeg" caption="Meet Firefox" >}}
 {{<figure src="/images/ramnagara-jan-2022/taking-a-view-of-things.jpeg" caption="Taking a view of their domain" >}}
-{{<figure src="/images/ramnagara-jan-2022/sachin-and-firefox.jpeg" caption="Sachin and Firefox. Can you tell he likes them scritches" >}}
+{{<figure src="/images/ramnagara-jan-2022/sachin-and-firefox.jpeg" caption="Sachin and Firefox. Can you tell firefox likes them scritches" >}}
 {{<figure src="/images/ramnagara-jan-2022/firefox-bliss.jpeg" caption="Firefox in blisss" >}}
 {{< /gallery >}}
 
