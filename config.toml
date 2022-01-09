@@ -1,6 +1,6 @@
 baseURL = 'https://rohitshetty.github.io'
 languageCode = 'en-us'
-title = '$ls /me/'
+title = '$ls /home/rohit/'
 
 theme = 'hugo-journal'
 [author]
