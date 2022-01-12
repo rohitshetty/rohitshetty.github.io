@@ -1,7 +1,7 @@
 ---
 title: "Desk Plants and myself"
 date: 2022-01-12T23:29:29+05:30
-draft: true
+draft: false
 ---
 
 I had this Peace Lilly on my desk for a long time. I had even named her. Shanti. It took me some time to understand her.
