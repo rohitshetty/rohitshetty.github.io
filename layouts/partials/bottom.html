@@ -23,13 +23,21 @@
 
           <br>
 
+
+          <a itemprop="sameAs" href="/index.xml" title="RSS"><img src="https://wp-assets.rss.com/blog/wp-content/uploads/2019/10/10111557/social_style_3_rss-512-1.png" style="height: 20px;"/> </a>
+
+
           {{ if isset .Site.Params "githubusername" -}}
           <a itemprop="sameAs" href="https://github.com/{{ .Site.Params.githubUsername }}" title="GitHub">GH</a>
           {{- end }}
 
+
+
+
           {{ if isset .Site.Params "twitterusername" -}}
           <a itemprop="sameAs" href="https://twitter.com/{{ .Site.Params.twitterUsername }}" title="Twitter">TW</a>
           {{- end}}
+
 
           {{ if isset .Site.Params "gpg" -}}
           <a itemprop="sameAs" href="{{ .Site.Params.gpg.link }}" title="GPG {{ .Site.Params.gpg.key }} (fingerprint: {{ .Site.Params.gpg.fingerprint }})">GPG</a>
