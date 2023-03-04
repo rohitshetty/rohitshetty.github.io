@@ -8,7 +8,17 @@
           <span itemprop="jobTitle">{{- .Site.Params.work.jobTitle -}}</span> at
           <span itemprop="memberOf" itemscope itemtype="http://schema.org/Organization"><a itemprop="url" href="{{ .Site.Params.work.companyUrl }}"><span itemprop="name">
             {{- .Site.Params.work.company -}}
-          </span></a></span>
+          </span></a></span> 
+
+          {{ if isset .Site.Params "work2" -}}
+          &
+          <span itemprop="jobTitle">{{- .Site.Params.work2.jobTitle -}}</span> at
+          <span itemprop="memberOf" itemscope itemtype="http://schema.org/Organization"><a itemprop="url" href="{{ .Site.Params.work2.companyUrl }}"><span itemprop="name">
+            {{- .Site.Params.work2.company -}}
+          </span></a></span> 
+
+          {{- end -}}
+
           {{- end -}}
 
           <br>

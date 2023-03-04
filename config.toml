@@ -1,4 +1,4 @@
-baseURL = 'https://rohitshetty.github.io'
+baseURL = 'https://blog.kernelanxiety.dev'
 languageCode = 'en-us'
 title = '$ls /home/rohit/'
 
@@ -11,5 +11,9 @@ theme = 'hugo-journal'
   tagline = "Journal about work, not work, projects, coffee and everything else"
 [params.work]
   jobTitle = "Developer"
-  company = "Beneath A Tree"
+  company = "Beneath A Tree Consultancy"
   companyUrl = "https://beneathatree.com/"
+[params.work2]
+  jobTitle = "Maker"
+  company = "Beneath A Tree Learning"
+  companyUrl = "https://bat.school/"
