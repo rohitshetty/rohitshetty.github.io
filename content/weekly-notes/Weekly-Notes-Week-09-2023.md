@@ -1,7 +1,7 @@
 ---
 title: "Weekly Notes 2023-W09"
 date: 2023-03-04T18:25:24+05:30
-draft: true
+draft: false
 ---
 
 I follow [Thej's weekly notes](https://thejeshgn.com/tag/weekly-notes/) and wanted to write my own. I am not sure what would go here - but here is the first edition.
