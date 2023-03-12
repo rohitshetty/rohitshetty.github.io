@@ -16,11 +16,13 @@ draft: false
 
 <!-- {{<figure src="/images/Weekly-Notes-2023-w10/tempus.jpeg" caption="Tempus" width="200px">}} -->
 
-{{< youtube id="PbEiORo0NEE" title="Tempus with just time countdown" >}}
+<!-- {{< youtube id="PbEiORo0NEE" title="Tempus with just time countdown" >}} -->
 
 - A few weeks ago, I accidentally dropped my headphones and they broke near the connection point between the speaker and headband. I tried fixing them with insulation tape, but it only worked temporarily. Finally, last Saturday, I decided to bite the bullet and design a [3D-printed solution](https://www.instagram.com/p/CprFSsnPH6a/). It looks sturdy for now - One less item in the landfill.
 
-{{< youtube id="wNewh7Y2dlk" title="Fusion 360 design process" >}}
+  [Here](https://www.youtube.com/watch?v=wNewh7Y2dlk) is the design speed run
+
+<!-- {{< youtube id="wNewh7Y2dlk" title="Fusion 360 design process" >}} -->
 
 {{< gallery caption-position="bottom" caption-effect="none" >}}
 
@@ -63,7 +65,7 @@ draft: false
 
 - If you made it till here, you deserve some of the Orange cuteness.
 
-{{< gallery caption-position="bottom" caption-effect="none" >}}
+{{< gallery caption-position="bottom"  >}}
 {{<figure src="/images/Weekly-Notes-2023-w10/orange-code-review.jpeg" caption="Code reviewer were not impressed" >}}
 {{<figure src="/images/Weekly-Notes-2023-w10/orange-garden.jpeg" caption="Orange, and Tea" >}}
 {{<figure src="/images/Weekly-Notes-2023-w10/orange-plant.jpeg" caption="What plant is this?" >}}
