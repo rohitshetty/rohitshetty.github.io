@@ -46,7 +46,143 @@
 &lt;/table>
 &lt;hr>
 &lt;p>Recently, I tried &lt;a href="https://store.blackbazacoffee.com/products/whiskey-sub?variant=41941243986102">Black Baza&amp;rsquo;s Whisky Barrel aged coffee&lt;/a> and enjoyed its the taste and after note. However, due to various reasons, I didn&amp;rsquo;t drink coffee for a while. When I finally resumed my coffee consumption, I found the boozy notes to be overpowering. So, I decided to save the beans for a cold brew later.&lt;/p>
-&lt;p>This weekend, I ordered a &lt;a href="https://bluetokaicoffee.com/collections/coffee/products/hidden-falls-estate?variant=40094498029623">new bag of coffee beans from Blue Tokai&lt;/a>, and I was pleasantly surprised to receive it the very next day. Living in Bangalore certainly has its privileges, including access to numerous specialty coffee shops within a one-kilometer radius of my home ¯_(ツ)_/¯. I can&amp;rsquo;t wait to try this new coffee and see how it compares to my previous favorite.&lt;/p></description></item><item><title>Weekly Notes 2023-W09</title><link>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-week-09-2023/</link><pubDate>Sat, 04 Mar 2023 18:25:24 +0530</pubDate><guid>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-week-09-2023/</guid><description>&lt;p>I follow &lt;a href="https://thejeshgn.com/tag/weekly-notes/">Thej&amp;rsquo;s weekly notes&lt;/a> and wanted to write my own. I am not sure what would go here - but here is the first edition.&lt;/p>
+&lt;p>This weekend, I ordered a &lt;a href="https://bluetokaicoffee.com/collections/coffee/products/hidden-falls-estate?variant=40094498029623">new bag of coffee beans from Blue Tokai&lt;/a>, and I was pleasantly surprised to receive it the very next day. Living in Bangalore certainly has its privileges, including access to numerous specialty coffee shops within a one-kilometer radius of my home ¯_(ツ)_/¯. I can&amp;rsquo;t wait to try this new coffee and see how it compares to my previous favorite.&lt;/p></description></item><item><title>Weekly Notes 2023-W10</title><link>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-2023-w10/</link><pubDate>Sun, 05 Mar 2023 04:30:57 +0530</pubDate><guid>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-2023-w10/</guid><description>&lt;h2 id="this-week">This week&lt;/h2>
+&lt;ul>
+&lt;li>Last Sunday Night, I had my Dinner at &lt;a href="https://goo.gl/maps/oaS1ZymoWnkjRMb48">Salt Mango Tree&lt;/a> with a friend. I Loved their Kreme Kerala and Malabar Biryani. It just soothes the soul.&lt;/li>
+&lt;/ul>
+&lt;link rel="stylesheet" href="https://blog.kernelanxiety.dev/css/hugo-easy-gallery.css" />
+&lt;div class="box" style="max-width:200px">
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w10/kreme-kerala.jpeg" alt="Kreme Kerala"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w10/kreme-kerala.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Kreme Kerala&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;ul>
+&lt;li>As someone with ADHD, I&amp;rsquo;ve always struggled with &lt;a href="https://www.verywellmind.com/causes-and-symptoms-of-time-blindness-in-adhd-5216523">Time Agnosia&lt;/a>, making it difficult to balance my work and personal life while maintaining good habits. To help combat this, I started working on a side project called Tempus this week.
+Tempus is a small screen with microcontroller that sits below my monitor and displays the time remaining in the day before I need to go to bed. The idea is to create a visual reminder that helps me manage my time more effectively. While the project is still a work in progress, I want to eventually include features such as a touchscreen and wifi capabilities.
+If you&amp;rsquo;re interested in following my progress, check out the current demo of Tempus &lt;a href="https://www.youtube.com/shorts/PbEiORo0NEE">here&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;!-- raw HTML omitted -->
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/PbEiORo0NEE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="Tempus with just time countdown">&lt;/iframe>
+&lt;/div>
+&lt;ul>
+&lt;li>A few weeks ago, I accidentally dropped my headphones and they broke near the connection point between the speaker and headband. I tried fixing them with insulation tape, but it only worked temporarily. Finally, last Saturday, I decided to bite the bullet and design a &lt;a href="https://www.instagram.com/p/CprFSsnPH6a/">3D-printed solution&lt;/a>. It looks sturdy for now - One less item in the landfill.&lt;/li>
+&lt;/ul>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/wNewh7Y2dlk" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="Fusion 360 design process">&lt;/iframe>
+&lt;/div>
+&lt;div class="gallery caption-position-bottom caption-effect-none hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/Weekly-Notes-2023-w10/beforefix.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w10/beforefix.jpeg" alt="Before"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w10/beforefix.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Before&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/Weekly-Notes-2023-w10/afterfix.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w10/afterfix.jpeg" alt="After"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w10/afterfix.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>After&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/div>
+&lt;ul>
+&lt;li>
+&lt;p>I recently discovered that my blog&amp;rsquo;s RSS feed was not displaying all of my content on RSS readers, due to Hugo&amp;rsquo;s default settings only publishing the summary in the RSS feed description.
+Today I decided to fix that problem. It was quite simple, and now you should be able to read all of this inside your RSS reader directly.
+I found these &lt;a href="https://www.godo.dev/tutorials/hugo-full-text-rss/">two&lt;/a> &lt;a href="https://www.rockyourcode.com/til-how-to-create-full-text-rss-feed-for-hugo/">guides&lt;/a> helpful.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>I recently started using &lt;a href="https://www.sunsama.com/">Sunsama&lt;/a> upon a colleague&amp;rsquo;s recommendation and have found it to be a helpful tool for viewing all of my tasks from various platforms in one centralized location, including Slack, Asana, and email. One feature I particularly appreciate is the ability to plan my day by adding estimated times to each task, allowing me to better gauge if I have overbooked myself.
+However, one drawback I have encountered is the inflexibility of the planning and shutdown routine, which occurs at a specific time each day. As someone with non-traditional work hours, I find it frustrating that I am unable to customize these settings to better suit my schedule. For example, I cannot begin planning for the day in the evening for work that needs to be completed on the same day.
+I do have a history of using tools for few days and dropping out - hope I don&amp;rsquo;t do that here :), Will report back.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>This Saturday, I visited &lt;a href="https://goo.gl/maps/R3A2jtuz2XmdxWKWA">Sri Vinayaka Tiffin Center&lt;/a>, that serves hot idly and vade starting from 4 AM. As someone who tends to stay up late, I was excited to discover a place that was open so early in the morning.
+At 5 in the morning, accompanied by a friend, enjoyed piping hot idly, chutney and vade. The simplicity of their idly, chutney, and vade makes it all the more special. Despite the early hour, the restaurant was already bustling with customers, which was a pleasant surprise. The drive to the restaurant from Indiranagar was also an interesting experience, to say the least.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://blog.kernelanxiety.dev/new-coffee-day/2023/03/blue-tokai-hidden-falls-estate/">Today was a new coffee day&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>In my pursuit of being able to make PCBs at home, I have been researching how to source and build UV lamps and UV photo-resist boards. While I have had some success using the dry film method with white LED, I wanted to create something that is more repeatable and easier to make.
+Found this guide to be very &lt;a href="http://www.electricstuff.co.uk/pcbs.html">useful&lt;/a>.
+I was able to source UV Tube lights that are made for curing UV dry films relatively cheaply on &lt;a href="https://www.amazon.in/gp/product/B06XRGCVDD">Amazon&lt;/a>. I am yet to figure out a proper Ballast to work with. Will report if I get these working.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="interesting-internet">Interesting Internet&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Last Sunday, and decided to watch &lt;a href="https://en.wikipedia.org/wiki/The_Pirates_of_Somalia_(film)">The Pirates of Somalia&lt;/a>, an autobiographical movie based on the life of Jay Bahadur, a Canadian student who dreams of becoming a journalist. Instead of attending a journalism school, he follows the advice of a senior journalist and embarks on a dangerous journey to Somalia. The film follows his experiences in the war-torn country and how it ultimately transforms him.&lt;/p>
+&lt;p>Overall, I really enjoyed the movie, particularly the portrayal of Abdi by Somalian-American actor Barkhad Abdi. The film also piqued my interest in Somalia, and I found myself delving into Wikipedia articles about the country. For example, did you know that before colonization, Somalia was known as the land of poets, and disputes were settled through poems instead of violence?&lt;/p>
+&lt;p>For those interested in watching the movie, it&amp;rsquo;s currently available for free on &lt;a href="https://www.mxplayer.in/movie/watch-the-pirates-of-somalia-movie-online-d03ffc2ee164f0d58f98189b2f20b727">mxplayer.com&lt;/a>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>I have been lately thinking about our Makerspace a lot. I have binged through a few videos on youtube, and I am currently watching through &lt;a href="https://www.youtube.com/watch?v=fNZpQESWlNM">these&lt;/a> &lt;a href="https://www.youtube.com/watch?v=6ps4vbQ6Tk0">two&lt;/a> from Adam Savage.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>I have been listening to a few episodes of &lt;a href="https://adhdbigbrother.com/">ADHD Big brother&lt;/a> by Russ Jones. This was recommended by Adam Savage &lt;a href="https://youtu.be/qruP60Eoz04?t=479">here&lt;/a>. I plan to continue listening.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>I came across this project, &lt;a href="https://alansolidum.com/posts/daily-flash/">Daily Flash&lt;/a>. Idea is to compile your days into a video, with each day represented by a 1-second video of that day. I find this interesting and would like to give it a try. &lt;a href="https://alansolidum.com/tag/daily-flash-videos/">Here&lt;/a> are some of the results from &lt;a href="https://alansolidum.com/">Alan Solidum&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>I discovered about a tribe in amazons called the Pirahas, known for having no concept of God or any creation myth. I found it very fascinating, and my curiosity led me down a rabbit hole of wikipedia hoping. I stumbled upon a &lt;a href="https://daniel-harbour.blogspot.com/2012/03/chomsky-piraha-and-turduckens-of-amazon.html">debate between Chomsky and Daniel Everett&lt;/a>, who has spent a significant amount of time with the Pirahas. Honestly, I don&amp;rsquo;t get half of the things in that article, but it piqued my interest in Chomsky&amp;rsquo;s Universal Grammar, and I plan to learn more about it in the future. In the meantime, I ordered a copy of &lt;a href="https://www.amazon.in/gp/product/1847920640/">The Essential Chomsky&lt;/a>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>If you made it till here, you deserve some of the Orange cuteness.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;div class="gallery caption-position-bottom caption-effect-none hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/Weekly-Notes-2023-w10/orange-code-review.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w10/orange-code-review.jpeg" alt="Code reviewer were not impressed"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w10/orange-code-review.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Code reviewer were not impressed&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/Weekly-Notes-2023-w10/orange-garden.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w10/orange-garden.jpeg" alt="Orange, and Tea"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w10/orange-garden.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Orange, and Tea&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/Weekly-Notes-2023-w10/orange-plant.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w10/orange-plant.jpeg" alt="What plant is this?"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w10/orange-plant.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>What plant is this?&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/div></description></item><item><title>Weekly Notes 2023-W09</title><link>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-week-09-2023/</link><pubDate>Sat, 04 Mar 2023 18:25:24 +0530</pubDate><guid>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-week-09-2023/</guid><description>&lt;p>I follow &lt;a href="https://thejeshgn.com/tag/weekly-notes/">Thej&amp;rsquo;s weekly notes&lt;/a> and wanted to write my own. I am not sure what would go here - but here is the first edition.&lt;/p>
 &lt;h2 id="last-year">Last year&lt;/h2>
 &lt;ul>
 &lt;li>
