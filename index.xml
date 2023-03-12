@@ -1,13 +1,924 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>$ls /home/rohit/</title><link>https://blog.kernelanxiety.dev/</link><description>Recent content on $ls /home/rohit/</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 04 Mar 2023 18:25:24 +0530</lastBuildDate><atom:link href="https://blog.kernelanxiety.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Weekly Notes 2023-W09</title><link>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-week-09-2023/</link><pubDate>Sat, 04 Mar 2023 18:25:24 +0530</pubDate><guid>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-week-09-2023/</guid><description>I follow Thej&amp;rsquo;s weekly notes and wanted to write my own. I am not sure what would go here - but here is the first edition.
-Last year Last year I got diagnosed with ADHD. I had a hunch for sometime, but getting it officially diagnosed was helpful. Knowing about ADHD has helped me in understanding myself, mainly the fact that my behaviour and patterns are not a moral failure.</description></item><item><title>Desk Plants and myself</title><link>https://blog.kernelanxiety.dev/notes/desk-plants-growth/</link><pubDate>Wed, 12 Jan 2022 23:29:29 +0530</pubDate><guid>https://blog.kernelanxiety.dev/notes/desk-plants-growth/</guid><description>I had this Peace Lilly on my desk for a long time. I had even named her. Shanti. It took me some time to understand her. When is she thirsty? When she needs some sunshine? How much water does she drink? All the whole jazz.
-It took me some time to understand the visual clues. Drooping leaves usually means I have failed again and have not watered in time. It always makes me anxious and guilty to see those drooping leaves.</description></item><item><title>This Morning Jan 11 2022</title><link>https://blog.kernelanxiety.dev/post/this-morning-jan-11-2022/</link><pubDate>Tue, 11 Jan 2022 14:48:53 +0530</pubDate><guid>https://blog.kernelanxiety.dev/post/this-morning-jan-11-2022/</guid><description>It was very early in the morning when I went to bed yesterday. I decided to stay back in the office yesterday night. Waking up by noon, I went through some emails and then decided to make myself a cup of coffee before jumping into the day.
-Shashank has been bringing Bruce to the office regularly in the mornings, so Bruce gets familiarized with the office environment.
-I spent some time with Shashank and Bruce in our office garden, grinding my coffee beans.</description></item><item><title>Productivity and Coffee</title><link>https://blog.kernelanxiety.dev/notes/productivity-coffee/</link><pubDate>Tue, 11 Jan 2022 02:12:29 +0530</pubDate><guid>https://blog.kernelanxiety.dev/notes/productivity-coffee/</guid><description>Last week or two, I have been very unproductive. I was only doing enough to get by the immediate tasks. I have been very unfocused in general and procrastinating. And that, in turn, made me go on tangents with other stuff which were more interesting.
-Today I had a few deadlines to meet. It made me sit through the first part of the day working on the task. But I still was pretty unfocused for the most part, even though I delivered my tasks.</description></item><item><title>Team Outing, Ramnagara, Jan 2022</title><link>https://blog.kernelanxiety.dev/post/team-outing-ramnagara-jan-2022/</link><pubDate>Sun, 09 Jan 2022 00:56:58 +0530</pubDate><guid>https://blog.kernelanxiety.dev/post/team-outing-ramnagara-jan-2022/</guid><description>2021 has been a difficult time for the whole world, and it was not different for us @Beneathatree. We had teammates who braved through COVID, who met with an accident and recovered. We grieved the loss of dear ones, and we were also in an absolute panic because we were about to lose someone very near to all of us.
-2021 had something good too. Our clients reached a lot of their milestones in their journey.</description></item><item><title>Em and the Big Hoom</title><link>https://blog.kernelanxiety.dev/post/em-and-the-big-hoom/</link><pubDate>Sun, 02 Jan 2022 20:36:01 +0530</pubDate><guid>https://blog.kernelanxiety.dev/post/em-and-the-big-hoom/</guid><description>Disclaimer
-This is NOT a book review.
-I do not feel comfortable judging something of which I do not have a complete understanding. I am a very naive reader and, this is just a documentation of things that the book made me feel through the process of reading it.
-Living with Em, having survived her into adolescence, we’d earned the right to be her equals.
-‘Will it comfort you?</description></item><item><title>Hello World!</title><link>https://blog.kernelanxiety.dev/post/hello-world/</link><pubDate>Tue, 07 Sep 2021 22:47:13 +0530</pubDate><guid>https://blog.kernelanxiety.dev/post/hello-world/</guid><description>Hello world!
-I love coming across blogs from the 2000s that document an era in tech and society that I lived through but know nothing about. I love blogs that are more of a diary, a running commentary of a thought process of the project than a straightforward tutorial.
-I do not plan to do any of those. But I wanted to keep a log of things I dabble in, read, and other random things that I do, outside of my day-to-day work.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>$ls /home/rohit/</title><link>https://blog.kernelanxiety.dev/</link><description>Recent content on $ls /home/rohit/</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 04 Mar 2023 18:25:24 +0530</lastBuildDate><atom:link href="https://blog.kernelanxiety.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Weekly Notes 2023-W09</title><link>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-week-09-2023/</link><pubDate>Sat, 04 Mar 2023 18:25:24 +0530</pubDate><guid>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-week-09-2023/</guid><description>&lt;p>I follow &lt;a href="https://thejeshgn.com/tag/weekly-notes/">Thej&amp;rsquo;s weekly notes&lt;/a> and wanted to write my own. I am not sure what would go here - but here is the first edition.&lt;/p>
+&lt;h2 id="last-year">Last year&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Last year I got diagnosed with ADHD. I had a hunch for sometime, but getting it officially diagnosed was helpful. Knowing about ADHD has helped me in understanding myself, mainly the fact that my behaviour and patterns are not a moral failure. I am trying to learn about existing with it.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Orange, a stray pregnant cat chose our office to lay her kittens. Since then she has been with us.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;div class="gallery caption-position-bottom caption-effect-none hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+&lt;link rel="stylesheet" href="https://blog.kernelanxiety.dev/css/hugo-easy-gallery.css" />
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/Weekly-Notes-Week-09-2023/orange-fangs.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-Week-09-2023/orange-fangs.jpeg" alt="Orange and her Fangs"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-Week-09-2023/orange-fangs.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Orange and her Fangs&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/div>
+&lt;h2 id="january">January&lt;/h2>
+&lt;ul>
+&lt;li>I bought my first domain and a Virtual Machine Droplet on DigitalOcean. I wanted a place to host my RSS reader and my Private Journal which I can access from any device.&lt;/li>
+&lt;/ul>
+&lt;h2 id="last-month">Last Month&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Earlier last month we at &lt;a href="https://bat.school">Beneathatree Learning&lt;/a> Partnered with Quest alliance as technical partners for their &lt;a href="https://www.youtube.com/watch?v=LnhXfWnszL0&amp;amp;ab_channel=QUESTAlliance">Hack to the Future Program&lt;/a> and helped to conduct a 5-day hackathon for 80+ kids from 13 states across India. This was really satisfying to see kids with no much prior experience with technology pick up so much in short duration and think about their local problems and build stuff to address it. Watch what kids built &lt;a href="https://www.youtube.com/watch?v=CGFfF2jvpT4&amp;amp;ab_channel=QUESTAlliance">here&lt;/a>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Last weekend in February BIC hosted their BIC Hubba, and Beneathatree Learning was one of the collaborators. My colleagues conducted few &lt;a href="https://bangaloreinternationalcentre.org/event/makkala-koota/">interesting&lt;/a> &lt;a href="https://bangaloreinternationalcentre.org/event/b%e2%80%a2lore/">sessions&lt;/a>. I also manned our living archive exhibit for few hours.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>I ordered a lot of useful and interesting tools, sensors, microcontroller boards and other interesting things for our Makerspace at Beneathatree Learning. Most of which have arrived and I am excited to inventorize them. I am also very happy that we have the right tools (mostly) for the right job, instead of having to improvise and jugaad.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>We have a brand new &lt;a href="https://robokits.co.in/automation-control-cnc/laser-cnc-engraving-marking/mini-cnc-machine/mini-marking-3018-cnc-grbl-milling-laser-engraving-machine-with-wider-base-medium-duty-diy-kit">mini CNC machine&lt;/a> that we are yet to complete the assembly. I am looking forward to this.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="this-week">This week&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Last few weeks were very difficult work and productivity wise because of my ADHD. All my routine had gone for a toss, and it was very difficult to get through each day. I have restarted working on my routine and other things for help. Because of my ADHD it is really difficult for me to stick to a routine.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>I had my ADHD medication changed this week.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Later half of the week was productive-ish. I am working on a new feature for our clients at &lt;a href="https://beneathatree.com">Beneathatree Consultancy&lt;/a>. I am excited by this feature technically, as well as by its usefulness.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>I have started reading &lt;a href="https://www.amazon.in/gp/product/0007481179/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&amp;amp;psc=1">&amp;ldquo;The Great Arc: The Dramatic Tale of How India was Mapped and Everest was Named&amp;rdquo;&lt;/a>
+&lt;div class="box fancy-figure caption-position-bottom" style="max-width:200px">
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-Week-09-2023/orange-great-arc.jpeg" alt="Orange and the Great Arc"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-Week-09-2023/orange-great-arc.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Orange and the Great Arc&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>I ordered a new multimeter. This would be the first multimeter I am using that is not a cheap Chinese unnamed model. I asked an Embedded Developer &lt;a href="https://sudarshanpatil.com/">friend&lt;/a> for a recommendation - and he recommended &lt;a href="https://robocraze.com/products/htc-dm-98-digital-multimeter">this DM 98&lt;/a>. This looks like a good bang for the buck. May not be the best in the market, but I also didn&amp;rsquo;t want to splurge too much just yet.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>I tried opening up a &lt;a href="https://www.amazon.in/gp/product/B07G4CPDM1/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&amp;amp;psc=1">cheap Laminator&lt;/a> to be used for my DIY PCB-making experiment. I have issues with this as one of the heating quartz rods inside the roller shattered, but it was fun trying to figure out how this laminator worked. Will try to document it if I can.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;hr></description></item><item><title>Desk Plants and myself</title><link>https://blog.kernelanxiety.dev/notes/desk-plants-growth/</link><pubDate>Wed, 12 Jan 2022 23:29:29 +0530</pubDate><guid>https://blog.kernelanxiety.dev/notes/desk-plants-growth/</guid><description>&lt;p>I had this Peace Lilly on my desk for a long time. I had even named her. Shanti. It took me some time to understand her.
+When is she thirsty? When she needs some sunshine? How much water does she drink? All the whole jazz.&lt;/p>
+&lt;p>It took me some time to understand the visual clues. Drooping leaves usually means I have failed again and have not watered in time.
+It always makes me anxious and guilty to see those drooping leaves. I fear they won&amp;rsquo;t be ever upright again, that I have killed Shanti.&lt;/p>
+&lt;p>Things are good now. She has propagated. We now have 2 Shantis, with a tiny new one on the way. This makes me fill with joy. I think I am not a destructive force after all.&lt;/p>
+&lt;div class="gallery caption-position-bottom caption-effect-none hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+&lt;link rel="stylesheet" href="https://blog.kernelanxiety.dev/css/hugo-easy-gallery.css" />
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/desk-plants-myself/shanti.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/desk-plants-myself/shanti.jpeg" alt="Shanti, the Peace Lilly"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/desk-plants-myself/shanti.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Shanti, the Peace Lilly&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/div>
+&lt;p>One fine day last October, I decided I needed one more plant on my desk. I ordered this planter, and that Sunday, I went to the nearby Nursery and bought some Money Plant (&lt;em>Epipremnum aureum&lt;/em>) saplings.&lt;/p>
+&lt;p>This one whom I decided not to name has no such drama. I placed a light source above it, and I mist some water here and there. And it looks happy!&lt;/p>
+&lt;p>And boy is it happy. It has grown a good amount in the last two months.
+The Highlights of my mornings for the last few months have been finding new leaves that have bloomed overnight, Looking at the leaves that have grown a bit more than the previous day.&lt;/p>
+&lt;div class="gallery caption-position-bottom caption-effect-none hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/desk-plants-myself/then.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/desk-plants-myself/then.jpeg" alt="Then"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/desk-plants-myself/then.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Then&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/desk-plants-myself/now.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/desk-plants-myself/now.jpeg" alt="Now"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/desk-plants-myself/now.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Now&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/div>
+&lt;p>I have been trying to cherish these small joys every day and reminding myself that I can change and grow. All I need to do is figure out the clues. After all, I am not a destructive force.&lt;/p>
+&lt;script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous">&lt;/script>
+&lt;script src="https://blog.kernelanxiety.dev/js/load-photoswipe.js">&lt;/script>
+&lt;link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+&lt;link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+&lt;script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous">&lt;/script>
+&lt;script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous">&lt;/script>
+&lt;div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+&lt;div class="pswp__bg">&lt;/div>
+&lt;div class="pswp__scroll-wrap">
+&lt;div class="pswp__container">
+&lt;div class="pswp__item">&lt;/div>
+&lt;div class="pswp__item">&lt;/div>
+&lt;div class="pswp__item">&lt;/div>
+&lt;/div>
+&lt;div class="pswp__ui pswp__ui--hidden">
+&lt;div class="pswp__top-bar">
+&lt;div class="pswp__counter">&lt;/div>
+&lt;button class="pswp__button pswp__button--close" title="Close (Esc)">&lt;/button>
+&lt;button class="pswp__button pswp__button--share" title="Share">&lt;/button>
+&lt;button class="pswp__button pswp__button--fs" title="Toggle fullscreen">&lt;/button>
+&lt;button class="pswp__button pswp__button--zoom" title="Zoom in/out">&lt;/button>
+&lt;div class="pswp__preloader">
+&lt;div class="pswp__preloader__icn">
+&lt;div class="pswp__preloader__cut">
+&lt;div class="pswp__preloader__donut">&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+&lt;div class="pswp__share-tooltip">&lt;/div>
+&lt;/div>
+&lt;button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+&lt;/button>
+&lt;button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+&lt;/button>
+&lt;div class="pswp__caption">
+&lt;div class="pswp__caption__center">&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item><item><title>This Morning Jan 11 2022</title><link>https://blog.kernelanxiety.dev/post/this-morning-jan-11-2022/</link><pubDate>Tue, 11 Jan 2022 14:48:53 +0530</pubDate><guid>https://blog.kernelanxiety.dev/post/this-morning-jan-11-2022/</guid><description>&lt;p>It was very early in the morning when I went to bed yesterday. I decided to stay back in the office yesterday night. Waking up by noon, I went through some emails and then decided to make myself a cup of coffee before jumping into the day.&lt;/p>
+&lt;p>Shashank has been bringing Bruce to the office regularly in the mornings, so Bruce gets familiarized with the office environment.&lt;/p>
+&lt;p>I spent some time with Shashank and Bruce in our office garden, grinding my coffee beans.&lt;/p>
+&lt;p>It was a calm Tuesday afternoon, disturbed aperiodically by the traffic on the 100ft road. Some birds often decide to chime in their thoughts too.&lt;/p>
+&lt;div class="gallery caption-position-bottom caption-effect-none hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+&lt;link rel="stylesheet" href="https://blog.kernelanxiety.dev/css/hugo-easy-gallery.css" />
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/this-morning-jan-11-2022/bruce-and-his-toy.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/this-morning-jan-11-2022/bruce-and-his-toy.jpeg" alt="Bruce and his toy"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/this-morning-jan-11-2022/bruce-and-his-toy.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Bruce and his toy&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/this-morning-jan-11-2022/bruce-shashank.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/this-morning-jan-11-2022/bruce-shashank.jpeg" alt="Bruce and Shashank"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/this-morning-jan-11-2022/bruce-shashank.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Bruce and Shashank&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/this-morning-jan-11-2022/bruce-corn-cob.gif');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/this-morning-jan-11-2022/bruce-corn-cob.gif" alt="Bruce playing with a corncob"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/this-morning-jan-11-2022/bruce-corn-cob.gif" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Bruce playing with a corncob&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/this-morning-jan-11-2022/bruce-eyes-shiny.gif');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/this-morning-jan-11-2022/bruce-eyes-shiny.gif" alt="Look at &amp;#39;em shiny eyes"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/this-morning-jan-11-2022/bruce-eyes-shiny.gif" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Look at &amp;#39;em shiny eyes&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/this-morning-jan-11-2022/watchya-eating.gif');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/this-morning-jan-11-2022/watchya-eating.gif" alt="Watchya eating? Okay I don&amp;#39;t care"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/this-morning-jan-11-2022/watchya-eating.gif" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Watchya eating? Okay I don&amp;#39;t care&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/div>
+&lt;p>Bruce was happy exploring the garden and zooming around.&lt;/p>
+&lt;p>I made myself some coffee in a French Press, and I am writing this memory down as I sip in my hot coffee.&lt;/p>
+&lt;p>Here is to a bright-looking week ahead.&lt;/p>
+&lt;script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous">&lt;/script>
+&lt;script src="https://blog.kernelanxiety.dev/js/load-photoswipe.js">&lt;/script>
+&lt;link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+&lt;link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+&lt;script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous">&lt;/script>
+&lt;script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous">&lt;/script>
+&lt;div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+&lt;div class="pswp__bg">&lt;/div>
+&lt;div class="pswp__scroll-wrap">
+&lt;div class="pswp__container">
+&lt;div class="pswp__item">&lt;/div>
+&lt;div class="pswp__item">&lt;/div>
+&lt;div class="pswp__item">&lt;/div>
+&lt;/div>
+&lt;div class="pswp__ui pswp__ui--hidden">
+&lt;div class="pswp__top-bar">
+&lt;div class="pswp__counter">&lt;/div>
+&lt;button class="pswp__button pswp__button--close" title="Close (Esc)">&lt;/button>
+&lt;button class="pswp__button pswp__button--share" title="Share">&lt;/button>
+&lt;button class="pswp__button pswp__button--fs" title="Toggle fullscreen">&lt;/button>
+&lt;button class="pswp__button pswp__button--zoom" title="Zoom in/out">&lt;/button>
+&lt;div class="pswp__preloader">
+&lt;div class="pswp__preloader__icn">
+&lt;div class="pswp__preloader__cut">
+&lt;div class="pswp__preloader__donut">&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+&lt;div class="pswp__share-tooltip">&lt;/div>
+&lt;/div>
+&lt;button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+&lt;/button>
+&lt;button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+&lt;/button>
+&lt;div class="pswp__caption">
+&lt;div class="pswp__caption__center">&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item><item><title>Productivity and Coffee</title><link>https://blog.kernelanxiety.dev/notes/productivity-coffee/</link><pubDate>Tue, 11 Jan 2022 02:12:29 +0530</pubDate><guid>https://blog.kernelanxiety.dev/notes/productivity-coffee/</guid><description>&lt;p>Last week or two, I have been very unproductive. I was only doing enough to get by the immediate tasks. I have been very unfocused in general and procrastinating. And that, in turn, made me go on tangents with other stuff which were more interesting.&lt;/p>
+&lt;p>Today I had a few deadlines to meet. It made me sit through the first part of the day working on the task. But I still was pretty unfocused for the most part, even though I delivered my tasks.&lt;/p>
+&lt;p>I realized I had not had my coffees during this period of 2 weeks (I mean, I did know this every day when I skipped making coffee but hadn&amp;rsquo;t made this connection). I usually grind and brew my coffee myself. But last few weeks I have been lazy to do that.&lt;/p>
+&lt;p>For the second part of the day, I freshly ground and brewed some coffee using a french press. All I had was stale coffee beans. But drinkable coffee.&lt;/p>
+&lt;p>I wrapped this task in around 2-3 hours, pretty much focused all through the time. I also had heavy music playing in the background.&lt;/p>
+&lt;p>I also had made a similar observation some months back.
+Given this premise, I wonder if there is any relationship between a dip in my productivity and reduced / nill coffee consumption.&lt;/p>
+&lt;p>&lt;strong>BEWARE&lt;/strong>&lt;/p>
+&lt;p>&lt;em>&lt;strong>Probably very bad scientific interpretation ahead. I am not a scientist and have not been trained in doing actual, real-world science. Nor do I have much experience reading scientific papers (Life sciences of all things).&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>&lt;em>How does Caffeine work?&lt;/em>&lt;/p>
+&lt;p>Adenosine chemical hits the Adenosine 2A receptors and promotes sleep in general. Caffeine binds with these receptors and prevents the binding of Adenosine, preventing sleepiness. An indirect effect of this blocking is also the release of Dopamine, serotonin, and a bunch of other chemicals whose functions I do not know. &lt;em>&lt;a href="https://www.ncbi.nlm.nih.gov/books/NBK223808/">source&lt;/a>&lt;/em>&lt;/p>
+&lt;p>In search of answers, I came across this &lt;a href="https://blogs.scientificamerican.com/scicurious-brain/feeling-stimulated-by-your-coffee-look-to-the-basal-ganglia-of-your-brain/">Scientific American article&lt;/a>, which talks about an experiment done by a group of scientists trying to identify where caffeine affects our brain. Their observation suggests that &lt;em>&lt;strong>&amp;ldquo;caffeine
+promotes arousal by activating pathways that traditionally has been associated with motivational and motor responses in the brain.&amp;quot;&lt;/strong>&lt;/em> &lt;em>(&lt;a href="https://www.jneurosci.org/content/jneuro/31/27/10067.full.pdf">Lazarus et al. &amp;ldquo;Arousal effect of caffeine depends on adenosine A2A receptors in the shell of the nucleus accumbens&amp;rdquo; J. Neuroscience, 2011&lt;/a>&lt;/em>&lt;/p>
+&lt;p>I also found &lt;a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7826302/">this study&lt;/a>, which is a randomized, control trial with around 48 subjects, studying the effect of caffeine and other stimulants. (&lt;em>&lt;strong>&amp;ldquo;Caffeine had a positive effect on sustained attention&amp;rdquo;&lt;/strong>&lt;/em>).&lt;/p>
+&lt;p>&lt;a href="https://www.ncbi.nlm.nih.gov/books/NBK223791/">Caffeine for the Sustainment of Mental Task Performance: Formulations for Military Operations&lt;/a> also talks about the positive effect of Caffeine on some types of cognition-related tasks.&lt;/p>
+&lt;p>So does this mean that consumption of Caffeine and my productivity are interlinked? &lt;em>I don&amp;rsquo;t know.&lt;/em>&lt;/p>
+&lt;p>The above papers are very cautious in their conclusions, and the trial quoted above was conducted on a small test group.&lt;/p>
+&lt;p>Further even if true, this may not necessarily reflect the relation behind dip in productivity and caffeine consumption. There can be many more common factors that may have affected these both behaviors.&lt;/p>
+&lt;p>In my anecdotal experience, &lt;em>Intention&lt;/em> plays a huge role in the effectiveness of coffee wrt concentration enhancement. And, there were way too many times when coffee didn&amp;rsquo;t help at all. Additionally, It is not like I had &lt;em>no&lt;/em> Caffeine at all in the last few weeks. I did have some filter coffee here and there, but I believe the dosage of Caffeine in that is very less compared to manual brews.&lt;/p>
+&lt;p>Maybe I&amp;rsquo;ll do a test on myself, keeping notes and compare how it works for me. But I believe it won&amp;rsquo;t ever be free from all the biases and not let Placebo like effects play.&lt;/p>
+&lt;p>But until then, I&amp;rsquo;ll go brew some coffee. I like how it makes me feel.&lt;/p></description></item><item><title>Team Outing, Ramnagara, Jan 2022</title><link>https://blog.kernelanxiety.dev/post/team-outing-ramnagara-jan-2022/</link><pubDate>Sun, 09 Jan 2022 00:56:58 +0530</pubDate><guid>https://blog.kernelanxiety.dev/post/team-outing-ramnagara-jan-2022/</guid><description>&lt;p>2021 has been a difficult time for the whole world, and it was not different for us @Beneathatree. We had teammates who braved through COVID, who met with an accident and recovered. We grieved the loss of dear ones, and we were also in an absolute panic because we were about to lose someone very near to all of us.&lt;/p>
+&lt;p>2021 had something good too. Our clients reached a lot of their milestones in their journey. Some raised good early-stage fundings, and some made amazing breakthroughs with their customer numbers, and we were happy to be part of that journey with them.
+We successfully trained and onboarded one more of our teammates into our consultancy wing, and we also added one more full-time teammate to our team.&lt;/p>
+&lt;p>To celebrate these small wins, we decided to take a day off to spend some time in nature.&lt;/p>
+&lt;p>Early morning of 7th January 2022, we left for a small nature resort near SRS Hills, Ramnagara.&lt;/p>
+&lt;p>We had chosen a weekday to avoid the crowd (Which worked! we had the whole place to ourselves!) and had called earlier to make sure all the staff at the facility were vaccinated.&lt;/p>
+&lt;div class="gallery caption-position-bottom caption-effect-none hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+&lt;link rel="stylesheet" href="https://blog.kernelanxiety.dev/css/hugo-easy-gallery.css" />
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/view-from-window.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/view-from-window.jpeg" alt="View just when we entered Ramnagara"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/view-from-window.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>View just when we entered Ramnagara&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box fancy-figure caption-position-bottom caption-effect-none" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/lake-near-camp.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/lake-near-camp.jpeg" alt="Beautiful Lake on whose banks was our base station"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/lake-near-camp.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Beautiful Lake on whose banks was our base station&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/div>
+&lt;p>We reached our destination by 11 am and, had a quick and delicious breakfast.&lt;/p>
+&lt;div class="gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/contemplating-srinidhi.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/contemplating-srinidhi.jpeg" alt="A friend lost in the beauty"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/contemplating-srinidhi.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>A friend lost in the beauty&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/div>
+&lt;p>While waiting for everyone to finish their breakfast, some of us decided to play with the dogs. We enjoyed spending time with these dogs before we got ready for the day. Each of these little cuties are amazing to play with. Full of excitement and energy, they would zoom through the lawn.
+They love playing fetch. The biggest of these, Maggie, loves racing us and then tackling us down if she can.&lt;/p>
+&lt;div class="gallery caption-position-bottom caption-effect-none hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/sachin-srinidhi-with-maggie.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/sachin-srinidhi-with-maggie.jpeg" alt="Sachin and Srinidhi with Maggie"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/sachin-srinidhi-with-maggie.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Sachin and Srinidhi with Maggie&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/srinidhi-and-maggie-taking-a-nap.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/srinidhi-and-maggie-taking-a-nap.jpeg" alt="Srinidhi and Maggie taking a nap on grass"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/srinidhi-and-maggie-taking-a-nap.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Srinidhi and Maggie taking a nap on grass&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/other-dogs-cant-let-that-happen.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/other-dogs-cant-let-that-happen.jpeg" alt="But we can&amp;#39;t let that happen now"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/other-dogs-cant-let-that-happen.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>But we can&amp;#39;t let that happen now&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/shashank-and-sachin-with-bullet.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/shashank-and-sachin-with-bullet.jpeg" alt="Shashank and Sachin with Bullet"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/shashank-and-sachin-with-bullet.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Shashank and Sachin with Bullet&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/shashank-maggie.jpg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/shashank-maggie.jpg" alt="Maggie &amp;amp; ️ Shashank ❤"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/shashank-maggie.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Maggie &amp;amp; ️ Shashank ❤&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/vijay-and-maggie.jpg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/vijay-and-maggie.jpg" alt="Vijay and Maggie"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/vijay-and-maggie.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Vijay and Maggie&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/sachin-sneaking-on-doggos.jpg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/sachin-sneaking-on-doggos.jpg" alt="Can be a meme, no?"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/sachin-sneaking-on-doggos.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Can be a meme, no?&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/sachin-maggie-tackle.gif');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/sachin-maggie-tackle.gif" alt="Maggie tackling Sachin"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/sachin-maggie-tackle.gif" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Maggie tackling Sachin&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/peas.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/peas.jpeg" alt="Peas✌️"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/peas.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Peas✌️&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/div>
+&lt;p>Our first activity for the day was to trek through and reach the summit of a rocky hill and then climb down the other way visiting a cave on our way back.&lt;/p>
+&lt;p>Seeing us clueless folks, a local guardian spirit in the form of a stray dog decided to join us. We readily named them Firefox.&lt;/p>
+&lt;div class="gallery caption-position-bottom caption-effect-none hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/firefox-the-guardian-of-the-hills.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/firefox-the-guardian-of-the-hills.jpeg" alt="Meet Firefox"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/firefox-the-guardian-of-the-hills.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Meet Firefox&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/taking-a-view-of-things.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/taking-a-view-of-things.jpeg" alt="Taking a view of their domain"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/taking-a-view-of-things.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Taking a view of their domain&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/sachin-and-firefox.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/sachin-and-firefox.jpeg" alt="Sachin and Firefox. Can you tell firefox likes them scritches"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/sachin-and-firefox.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Sachin and Firefox. Can you tell firefox likes them scritches&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/firefox-bliss.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/firefox-bliss.jpeg" alt="Firefox in blisss"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/firefox-bliss.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Firefox in blisss&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/div>
+&lt;p>There was a small water stream that we had to cross through, which I enjoyed.&lt;/p>
+&lt;p>Soon we began climbing through the rocks, and I was already losing my breath.
+Thankfully the climb was short, and we were already at the summit. We spent some time there relaxing and enjoying the view around and then continued our journey sideways.&lt;/p>
+&lt;div class="gallery caption-position-bottom caption-effect-none hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/spot-the-trash.jpg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/spot-the-trash.jpg" alt="Spot the trash, a game we all have played"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/spot-the-trash.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Spot the trash, a game we all have played&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/us-climbing.jpg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/us-climbing.jpg" alt="Up, up, up we go"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/us-climbing.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Up, up, up we go&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/doa.jpg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/doa.jpg" alt="I understood what Dead on Arrival meant"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/doa.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>I understood what Dead on Arrival meant&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/div>
+&lt;p>We reached a cave that looked spacious and also had a small stream of water flowing from inside. We explored this for a while.
+Anil and I decided to go back ahead, and the rest of the team was adventurous enough to climb a bit further.&lt;/p>
+&lt;div class="gallery caption-position-bottom caption-effect-none hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/them-the-caves.jpg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/them-the-caves.jpg" alt="Eyeball sockets on the rocks"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/them-the-caves.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Eyeball sockets on the rocks&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/beehives-of-ramnagar.jpg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/beehives-of-ramnagar.jpg" alt="Beehives of Ramnagar"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/beehives-of-ramnagar.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Beehives of Ramnagar&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/view-from-caves.jpg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/view-from-caves.jpg" alt="View from the socket ball caves"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/view-from-caves.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>View from the socket ball caves&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/firefox-caves.jpg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/firefox-caves.jpg" alt="Firefox leading us everywhere"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/firefox-caves.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Firefox leading us everywhere&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/srinidhi-firefox-caves.jpg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/srinidhi-firefox-caves.jpg" alt="Srinidhi and Firefox in a conversation"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/srinidhi-firefox-caves.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Srinidhi and Firefox in a conversation&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/sachin-firefox.jpg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/sachin-firefox.jpg" alt="Everyone wants to tell their secrets to Firefox"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/sachin-firefox.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Everyone wants to tell their secrets to Firefox&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/brave-climb-ahead.jpg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/brave-climb-ahead.jpg" alt="Some of them climbed a bit ahead into the socket"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/brave-climb-ahead.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Some of them climbed a bit ahead into the socket&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/voila.jpg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/voila.jpg" alt="Voila!"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/voila.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Voila!&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/more-joined.jpg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/more-joined.jpg" alt="More joined soon"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/more-joined.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>More joined soon&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/dropping-album.jpg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/dropping-album.jpg" alt="Dropping their new Album anytime now"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/dropping-album.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Dropping their new Album anytime now&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/happy-faces.jpg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/happy-faces.jpg" alt="Happy Faces :)"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/happy-faces.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Happy Faces :)&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/leave-them-behind.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/leave-them-behind.jpeg" alt="But We decided to leave them behind"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/leave-them-behind.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>But We decided to leave them behind&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/go-far.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/go-far.jpeg" alt="View from far back"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/go-far.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>View from far back&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/div>
+&lt;p>On our way back, guided by our guide and Firefox, we saw a pond, probably a local watering hole for the wildlife around here.&lt;/p>
+&lt;p>After walking through the paddy fields and hearing worker women sing while working in the sun, we met with the team back at the resort.&lt;/p>
+&lt;p>Firefox decided to part ways before we took the fork to the resort.&lt;/p>
+&lt;p>Post our lunch, the rest of the team decided to try Ziplining. But I decided that I had enough adventure for the day.
+&lt;div class="gallery caption-position-bottom caption-effect-none hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/sachin-zipline.gif');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/sachin-zipline.gif" alt="Sachin going weeeeee"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/sachin-zipline.gif" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Sachin going weeeeee&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/empty-zip.jpg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/empty-zip.jpg" alt="No pictures of this, and I don&amp;#39;t know how to embed videos without increasing load time"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/empty-zip.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>No pictures of this, and I don&amp;#39;t know how to embed videos without increasing load time&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/but-i-chill.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/but-i-chill.jpeg" alt="Decided to chill"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/but-i-chill.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Decided to chill&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/div>
+&lt;/p>
+&lt;p>We went Kayaking in the lake later when the sun decided to hide behind the clouds. I was shocked by the amount of energy needed and the pain Kayaking can cause. Thankfully I endured with some help. I enjoyed the calmness and silence in the middle of the lake and being able to watch the sky lying down.&lt;/p>
+&lt;div class="gallery caption-position-bottom caption-effect-none hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/srinidhi-anil-srs.jpg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/srinidhi-anil-srs.jpg" alt="Srinidhi and Anil, with SRS Hills in the backdrop"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/srinidhi-anil-srs.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Srinidhi and Anil, with SRS Hills in the backdrop&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/me-lake.jpg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/me-lake.jpg" alt="Can see how calm it was"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/me-lake.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Can see how calm it was&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/happy-kayaking-faces.jpg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/happy-kayaking-faces.jpg" alt="Happy Kayaking faces"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/happy-kayaking-faces.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Happy Kayaking faces&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/div>
+&lt;p>We then tried our hands at Archery and mud volleyball. Although we had no intention to, we ended up washing ourselves in the &amp;ldquo;Rain dance&amp;rdquo; (for which the water is pumped from the lake and released back after a small filtration step).&lt;/p>
+&lt;div class="gallery caption-position-bottom caption-effect-none hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/anil-archery.jpg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/anil-archery.jpg" alt="Anil got really good it at this!"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/anil-archery.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Anil got really good it at this!&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/srinidhi-aim.jpg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/srinidhi-aim.jpg" alt="Srinidhi got an eye on that target"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/srinidhi-aim.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Srinidhi got an eye on that target&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/mud-volleyball.jpg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/mud-volleyball.jpg" alt="Daag Acche hai!"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/mud-volleyball.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Daag Acche hai!&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/we-cleaned.jpg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/we-cleaned.jpg" alt="And then we dance(To clean)"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/we-cleaned.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>And then we dance(To clean)&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/return-to-roots.jpg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/return-to-roots.jpg" alt="An attempt was made to return back to the roots"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/return-to-roots.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>An attempt was made to return back to the roots&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/div>
+&lt;p>I don&amp;rsquo;t enjoy dancing in public, mainly because of my body image issues. But this time, I felt safe enough to dance, and it looks like I did enjoy it :)&lt;/p>
+&lt;p>Some of my teammates even tried climbing the mango tree, for which I had no energy left.&lt;/p>
+&lt;p>After drinking some hot tea facing the lake, we were ready to say our goodbyes to the dogs.&lt;/p>
+&lt;div class="gallery caption-position-bottom caption-effect-none hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/nests.jpg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/nests.jpg" alt="Lots of nests"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/nests.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Lots of nests&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/lake-back.jpg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/lake-back.jpg" alt="View back home"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/lake-back.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>View back home&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/ramnagara-jan-2022/fin.jpg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/fin.jpg" alt="Fin!"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/ramnagara-jan-2022/fin.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Fin!&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/div>
+&lt;p>On our way back home, We listened to a true-crime podcast that made me slip into sleep efficiently.&lt;/p>
+&lt;p>(Image credits: Team Beneathatree, I found them from our common image share pool)&lt;/p>
+&lt;script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous">&lt;/script>
+&lt;script src="https://blog.kernelanxiety.dev/js/load-photoswipe.js">&lt;/script>
+&lt;link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+&lt;link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+&lt;script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous">&lt;/script>
+&lt;script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous">&lt;/script>
+&lt;div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+&lt;div class="pswp__bg">&lt;/div>
+&lt;div class="pswp__scroll-wrap">
+&lt;div class="pswp__container">
+&lt;div class="pswp__item">&lt;/div>
+&lt;div class="pswp__item">&lt;/div>
+&lt;div class="pswp__item">&lt;/div>
+&lt;/div>
+&lt;div class="pswp__ui pswp__ui--hidden">
+&lt;div class="pswp__top-bar">
+&lt;div class="pswp__counter">&lt;/div>
+&lt;button class="pswp__button pswp__button--close" title="Close (Esc)">&lt;/button>
+&lt;button class="pswp__button pswp__button--share" title="Share">&lt;/button>
+&lt;button class="pswp__button pswp__button--fs" title="Toggle fullscreen">&lt;/button>
+&lt;button class="pswp__button pswp__button--zoom" title="Zoom in/out">&lt;/button>
+&lt;div class="pswp__preloader">
+&lt;div class="pswp__preloader__icn">
+&lt;div class="pswp__preloader__cut">
+&lt;div class="pswp__preloader__donut">&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+&lt;div class="pswp__share-tooltip">&lt;/div>
+&lt;/div>
+&lt;button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+&lt;/button>
+&lt;button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+&lt;/button>
+&lt;div class="pswp__caption">
+&lt;div class="pswp__caption__center">&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item><item><title>Em and the Big Hoom</title><link>https://blog.kernelanxiety.dev/post/em-and-the-big-hoom/</link><pubDate>Sun, 02 Jan 2022 20:36:01 +0530</pubDate><guid>https://blog.kernelanxiety.dev/post/em-and-the-big-hoom/</guid><description>&lt;p>&lt;em>&lt;strong>Disclaimer&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>&lt;em>This is &lt;em>NOT&lt;/em> a book review.&lt;/em>&lt;/p>
+&lt;p>&lt;em>I do not feel comfortable judging something of which I do not have a complete understanding.&lt;/em> &lt;em>I am a very naive reader and, this is just a documentation of things that the book made me feel through the process of reading it.&lt;/em>&lt;/p>
+&lt;hr>
+&lt;blockquote>
+&lt;p>&lt;em>Living with Em, having survived her into adolescence, we’d earned the right to be her equals.&lt;/em>&lt;/p>
+&lt;p>&lt;em>‘Will it comfort you?’ I said. ‘I’ll lie if it will.’&lt;/em>&lt;/p>
+&lt;p>&lt;em>‘Oh shut up,’ she said, waving at me dismissively. ‘You would have to make it comforting.’&lt;/em>&lt;/p>
+&lt;p>&lt;em>‘How?’&lt;/em>&lt;/p>
+&lt;p>&lt;em>‘How? How? A well-told lie can heal. Otherwise, what’s fiction?’&lt;/em>&lt;/p>
+&lt;/blockquote>
+&lt;p>This is about Imelda, &lt;em>&lt;strong>&amp;ldquo;Em&amp;rdquo;&lt;/strong>&lt;/em> as her kids call her. Em loves her kids and husband. But every day fights her own battle inside her head.
+She is witty, brutally honest in her words, but she is also aware of the pain her words can inflict upon her kids. She can be brutal and also praise her kid in the same sentence. She loves her beedis, writings, and tea.&lt;/p>
+&lt;p>This is also about Augustine Mendes, &lt;em>&lt;strong>The Big Hoom&lt;/strong>&lt;/em> (&lt;em>&amp;ldquo;Maybe it’s because he made “hoom” sounds when we asked him something&amp;rdquo;&lt;/em>). Husband of Em, father of Susan, and our unnamed narrator. Big Hoom is the rock and refuge of the family. As our narrator sees him, &lt;em>he is built for Endurance, not speed.&lt;/em>&lt;/p>
+&lt;p>This is also about their Romance, about their courtship. This is also about their offspring and their relationship with Em and the Big Hoom.
+This story is about a family that is trying to survive, love, and live. Trying to make sense of this world as they go by.&lt;/p>
+&lt;p>The first few pages in, and I was already enjoying the style and flow. It was painful to read, but it was beautiful writing.&lt;/p>
+&lt;p>I am a fan of how Em speaks, with many references, rhyme, and shifting topics. As the author calls it, &lt;em>&amp;ldquo;Conversations with Em could be like wandering in a town you had never seen before&amp;rdquo;&lt;/em>, but it also simultaneously was painful, not in a bad sense, but in a way where you know the source of this wit is probably also a source of deep pain for Em and her family, &lt;em>&amp;ldquo;You had to keep finding your way back to the main street in order to get anywhere&amp;rdquo;&lt;/em>.&lt;/p>
+&lt;p>Bits and pieces that are narrated about the life of Em and the Big Hoom open another window to the society that I was not aware of before. The life of the Lower Middle-class Catholic family of Bombay and their daily struggles. The life of these people back in the 50s and 80s. Their early Courtship, the angst of young working women.&lt;/p>
+&lt;p>The story of Big Hoom ending up in Bombay and earning his degree was also the story of many immigrants to Bombay in that era (and even today), who ended up in that unknown city without anything, and are helped to stand up on their feet, by generous random strangers, luck and hard work.&lt;/p>
+&lt;p>Religion also plays a major underlying theme here, be it Author&amp;rsquo;s exploration into different religions unexpectedly to explain why he is going through what he is going through, his loss of faith (&lt;em>&amp;ldquo;I lost my faith as an hourglass loses sand.&amp;quot;&lt;/em>), the suffering of women and the resultant repression of their sexuality by society.&lt;/p>
+&lt;p>The chapter that describes Electro-convulsive Therapy (Or as the title of the chapter calls it &amp;ldquo;Electro Convulsive Throppy) makes you angry and helpless about how we treat our ill.&lt;/p>
+&lt;p>The last Chapter made me feel the absence of Em. Her absence feels like a deafening silence, and you mourn for her in your own way for a while.&lt;/p>
+&lt;p>A well-written book makes you more empathetic, and open to the sorrow and pain of others, and probably helps us not to be a jerk in general. and I think this is one such book that I am going to remember for a long time.&lt;/p>
+&lt;p>There is much more to the book, the above ones are just things that stood out to me and were evident.
+It is about the relationship, love, and endurance of a family.&lt;/p>
+&lt;p>I have a lot more to think and articulate, but I cannot right now.&lt;/p></description></item><item><title>Hello World!</title><link>https://blog.kernelanxiety.dev/post/hello-world/</link><pubDate>Tue, 07 Sep 2021 22:47:13 +0530</pubDate><guid>https://blog.kernelanxiety.dev/post/hello-world/</guid><description>&lt;p>Hello world!&lt;/p>
+&lt;p>I love coming across blogs from the 2000s that document an era in tech and society that I lived through but know nothing about.
+I love blogs that are more of a diary, a running commentary of a thought process of the project than a straightforward tutorial.&lt;/p>
+&lt;p>I do not plan to do any of those. But I wanted to keep a log of things I dabble in, read, and other random things that I do, outside of my day-to-day work.&lt;/p>
+&lt;p>Few Blogs that I find interesting (Work in progress):&lt;/p>
+&lt;ol>
+&lt;li>&lt;a href="https://thejeshgn.com/">Thejesh GN&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.joelonsoftware.com/">Joel On Software&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://blog.codinghorror.com/">Jeff Attwood&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://jvns.ca/">Julia Evans&lt;/a>&lt;/li>
+&lt;/ol></description></item></channel></rss>
