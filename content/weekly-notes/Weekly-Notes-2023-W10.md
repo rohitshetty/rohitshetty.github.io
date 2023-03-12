@@ -14,7 +14,7 @@ draft: false
   Tempus is a small screen with microcontroller that sits below my monitor and displays the time remaining in the day before I need to go to bed. The idea is to create a visual reminder that helps me manage my time more effectively. While the project is still a work in progress, I want to eventually include features such as a touchscreen and wifi capabilities.
   If you're interested in following my progress, check out the current demo of Tempus [here](https://www.youtube.com/shorts/PbEiORo0NEE).
 
-<!-- {{<figure src="/images/Weekly-Notes-2023-w10/tempus.jpeg" caption="Tempus" width="200px">}} -->
+{{<figure src="/images/Weekly-Notes-2023-w10/tempus.jpeg" caption="Tempus" width="200px">}}
 
 <!-- {{< youtube id="PbEiORo0NEE" title="Tempus with just time countdown" >}} -->
 
