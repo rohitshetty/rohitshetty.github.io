@@ -20,15 +20,14 @@ Tempus is a small screen with microcontroller that sits below my monitor and dis
 If you&amp;rsquo;re interested in following my progress, check out the current demo of Tempus &lt;a href="https://www.youtube.com/shorts/PbEiORo0NEE">here&lt;/a>.&lt;/li>
 &lt;/ul>
 &lt;!-- raw HTML omitted -->
-&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/PbEiORo0NEE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="Tempus with just time countdown">&lt;/iframe>
-&lt;/div>
+&lt;!-- raw HTML omitted -->
 &lt;ul>
-&lt;li>A few weeks ago, I accidentally dropped my headphones and they broke near the connection point between the speaker and headband. I tried fixing them with insulation tape, but it only worked temporarily. Finally, last Saturday, I decided to bite the bullet and design a &lt;a href="https://www.instagram.com/p/CprFSsnPH6a/">3D-printed solution&lt;/a>. It looks sturdy for now - One less item in the landfill.&lt;/li>
+&lt;li>
+&lt;p>A few weeks ago, I accidentally dropped my headphones and they broke near the connection point between the speaker and headband. I tried fixing them with insulation tape, but it only worked temporarily. Finally, last Saturday, I decided to bite the bullet and design a &lt;a href="https://www.instagram.com/p/CprFSsnPH6a/">3D-printed solution&lt;/a>. It looks sturdy for now - One less item in the landfill.&lt;/p>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=wNewh7Y2dlk">Here&lt;/a> is the design speed run&lt;/p>
+&lt;/li>
 &lt;/ul>
-&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/wNewh7Y2dlk" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="Fusion 360 design process">&lt;/iframe>
-&lt;/div>
+&lt;!-- raw HTML omitted -->
 &lt;div class="gallery caption-position-bottom caption-effect-none hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
 &lt;div class="box" >
 &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
@@ -100,7 +99,7 @@ I was able to source UV Tube lights that are made for curing UV dry films relati
 &lt;p>If you made it till here, you deserve some of the Orange cuteness.&lt;/p>
 &lt;/li>
 &lt;/ul>
-&lt;div class="gallery caption-position-bottom caption-effect-none hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+&lt;div class="gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
 &lt;div class="box" >
 &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
 &lt;div class="img" style="background-image: url('/images/Weekly-Notes-2023-w10/orange-code-review.jpeg');">
