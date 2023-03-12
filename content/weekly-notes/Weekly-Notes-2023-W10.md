@@ -1,7 +1,7 @@
 ---
 title: "Weekly Notes 2023-W10"
 date: 2023-03-05T04:30:57+05:30
-draft: true
+draft: false
 ---
 
 ## This week
