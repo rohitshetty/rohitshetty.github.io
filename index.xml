@@ -1,4 +1,100 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>$ls /home/rohit/</title><link>https://blog.kernelanxiety.dev/</link><description>Recent content on $ls /home/rohit/</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 13 Mar 2023 01:40:57 +0530</lastBuildDate><atom:link href="https://blog.kernelanxiety.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Weekly Notes 2023-W10</title><link>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-2023-w10/</link><pubDate>Mon, 13 Mar 2023 01:40:57 +0530</pubDate><guid>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-2023-w10/</guid><description>&lt;h2 id="this-week">This week&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>$ls /home/rohit/</title><link>https://blog.kernelanxiety.dev/</link><description>Recent content on $ls /home/rohit/</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 19 Mar 2023 23:46:55 +0530</lastBuildDate><atom:link href="https://blog.kernelanxiety.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Weekly Notes 2023 W11</title><link>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-2023-w11/</link><pubDate>Sun, 19 Mar 2023 23:46:55 +0530</pubDate><guid>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-2023-w11/</guid><description>&lt;h2 id="this-week">This week&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Nibling++&lt;/strong>: My cousin, with whom I spent countless summer vacations growing up, is now a proud parent. It&amp;rsquo;s crazy how fast time flies and how life changes.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Update on Tempus&lt;/strong>: Starting of this week, I spent some time working on &lt;a href="https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-2023-w10/">Tempus.&lt;/a> I changed the orientation to landscape and added code to display the keypad and identify key presses. However, I noticed that there were some issues with a single key press being interpreted as a series of key presses, so I plan to add some debouncing or filtering features to fix this problem.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;link rel="stylesheet" href="https://blog.kernelanxiety.dev/css/hugo-easy-gallery.css" />
+&lt;div class="box" style="max-width:250px">
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w11/tempus1.jpeg" alt="Landscape orientation"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w11/tempus1.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Landscape orientation&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" style="max-width:250px">
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w11/tempus2.jpeg" alt="Keypad"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w11/tempus2.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Keypad&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>New Oscilloscope&lt;/strong>: Our &lt;a href="https://bat.school">Makerspace&lt;/a> has just acquired its &lt;a href="https://siglentna.com/product/sds1104x-u/">first oscilloscope&lt;/a>, which is fantastic news! I&amp;rsquo;ve been wanting to get one for a long time, ever since my undergraduate days. It&amp;rsquo;s an incredibly versatile tool that will be useful for a wide range of projects and experiments.
+Of course, like with any new technology, there is a bit of a learning curve. While I&amp;rsquo;m excited to start using it, I&amp;rsquo;m also a bit apprehensive. I know there&amp;rsquo;s always the chance that I could accidentally damage the oscilloscope, but I&amp;rsquo;ve been reading and learning more about it in my spare time.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Fidget Cube&lt;/strong>: I bought a &lt;a href="https://www.amazon.in/gp/product/B0BS48S6YX">fidget cube&lt;/a>. It was relatively cheap. However, I don&amp;rsquo;t really like the feel of it because some of the buttons are hard and stiff. I&amp;rsquo;m planning to build one for myself someday.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Aakash Mehta Live&lt;/strong>: I watched &lt;a href="https://www.instagram.com/kuchbhimehta/?hl=en">Aakash Mehta&lt;/a> live &lt;a href="https://in.bookmyshow.com/events/aakash-mehta-nasty-stand-up-comedy/ET00353906">today&lt;/a> for the first time. I like and listen to the podcast &lt;a href="https://ivmpodcasts.com/ivm-show/varta-lab-61e571e4adf87e3b1d5905bd">&amp;ldquo;Vartalab&amp;rdquo;&lt;/a> that Aakash and &lt;a href="https://www.instagram.com/houseofnoronha/?hl=en">Navin Noronha&lt;/a> run. I&amp;rsquo;m looking forward to seeing Navin live next. Link to &lt;a href="https://in.bookmyshow.com/events/navin-noronha-the-good-child-final-tour/ET00352601">Navin&amp;rsquo;s&lt;/a> tour.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Struggling with Sleep and Focus&lt;/strong>: This week was the worst in recent times. I had a lot of issues with sleep and focus. On Friday and Saturday, I slept for most of the day, and in the previous few days, I hardly slept at all. I&amp;rsquo;m having trouble getting things done. I&amp;rsquo;m exploring a few tools to help me, including continuing to use Sunsama. I&amp;rsquo;ve also installed &lt;a href="https://www.forestapp.cc/">Forestapp&lt;/a> to prevent distractions and I&amp;rsquo;m exploring brain.fm&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="interesting-internet">Interesting Internet&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>I have been scouring the internet for advice on the proper usage of an oscilloscope.
+I found these videos from &lt;a href="https://youtu.be/xaELqAo4kkQ">EEVBlog&lt;/a> and &lt;a href="https://youtu.be/DgYGRtkd9Vs">Electroboom&lt;/a> to be useful.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>My mind was blown with &lt;a href="https://www.youtube.com/watch?v=N3bJnKmeNJY&amp;amp;t=1125s&amp;amp;ab_channel=NightHawkInLight">this&lt;/a> video that demonstrates how paint can be used to achieve cooling without any electricity - pretty ingenious!&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>If you made it till here, you deserve some of the Orange cuteness.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;div class="gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/Weekly-Notes-2023-w11/orange1.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w11/orange1.jpeg" alt="Sleepy kitty"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w11/orange1.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Sleepy kitty&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/Weekly-Notes-2023-w11/orange2.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w11/orange2.jpeg" alt="Pur pur pur"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w11/orange2.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Pur pur pur&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/Weekly-Notes-2023-w11/orange-meme.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w11/orange-meme.jpeg" alt="We make memes too"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w11/orange-meme.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>We make memes too&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/div></description></item><item><title>Weekly Notes 2023-W10</title><link>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-2023-w10/</link><pubDate>Mon, 13 Mar 2023 01:40:57 +0530</pubDate><guid>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-2023-w10/</guid><description>&lt;h2 id="this-week">This week&lt;/h2>
 &lt;ul>
 &lt;li>Last Sunday Night, I had my Dinner at &lt;a href="https://goo.gl/maps/oaS1ZymoWnkjRMb48">Salt Mango Tree&lt;/a> with a friend. I Loved their Kreme Kerala and Malabar Biryani. It just soothes the soul.&lt;/li>
 &lt;/ul>
