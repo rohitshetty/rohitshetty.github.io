@@ -1,4 +1,160 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>$ls /home/rohit/</title><link>https://blog.kernelanxiety.dev/</link><description>Recent content on $ls /home/rohit/</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 19 Mar 2023 23:46:55 +0530</lastBuildDate><atom:link href="https://blog.kernelanxiety.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Weekly Notes 2023 W11</title><link>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-2023-w11/</link><pubDate>Sun, 19 Mar 2023 23:46:55 +0530</pubDate><guid>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-2023-w11/</guid><description>&lt;h2 id="this-week">This week&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>$ls /home/rohit/</title><link>https://blog.kernelanxiety.dev/</link><description>Recent content on $ls /home/rohit/</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 27 Mar 2023 11:51:02 +0530</lastBuildDate><atom:link href="https://blog.kernelanxiety.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Weekly Notes 2023 W12</title><link>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-2023-w12/</link><pubDate>Mon, 27 Mar 2023 11:51:02 +0530</pubDate><guid>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-2023-w12/</guid><description>&lt;h2 id="last-week-2023w12">Last week (2023W12)&lt;/h2>
+&lt;p>I am writing this on a Monday morning, instead of Saturday or Sunday night.&lt;/p>
+&lt;p>Last week I had some good progress in my work. I am working with my therapist
+to fix my sleep cycle and irregular food habits.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Monday was very productive. I made good progress on the work front.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tuesday I spent a few hours reading through a lot of blogs. I added a lot of them
+into my feed reader. I want to work on adding a blog roll, automatically exporting
+my feed from Miniflux.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Wednesday was a public holiday for Ugadi, and I didn&amp;rsquo;t really do much. I went to Thippsandra with a friend to buy a few things. I bought some plastic containers for organizing our maker space. We had our lunch at the newly opened &lt;a href="https://goo.gl/maps/2t7erEB1qJpi2SWe8">Filter Coffee&lt;/a>, where we ordered some Idly and ghee dosa. The food was good. I tried their hazelnut south indian filter coffee. I liked the after taste.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Wednesday - I unboxed our
+new Oscilloscope that had arrived, and set it up.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;link rel="stylesheet" href="https://blog.kernelanxiety.dev/css/hugo-easy-gallery.css" />
+&lt;div class="box" style="max-width:200px">
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w12/oscope1.jpeg" alt="Our new Oscilloscope in all its glory"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w12/oscope1.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Our new Oscilloscope in all its glory&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;ul>
+&lt;li>
+&lt;p>Wednesday I tried testing the UV tube light and Ballast that I had ordered.
+I was happy to see they worked together. I plan to use it for my Homebrew PCB experiments.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Thursday, Friday mostly work.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Saturday - The laminator I had &lt;a href="https://www.amazon.in/gp/product/B08GX6XW54/">ordered&lt;/a> arrived. I went in for a slightly costly model this time.
+Because the el cheapo one stopped working previously. This one had temperature control, which turned out to be very useful.
+I experimented with laminating my Copper clad with Dry resist film and that worked great.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Saturday - I ordered a few screen printing supplies and tools from &lt;a href="https://printride.com">Printride&lt;/a>. I went there in search of transparency sheets for my inkjet printer, but ended up buying few other things that can be useful. They have an &lt;a href="https://www.youtube.com/c/Printride">Youtube&lt;/a> channel if that is of interest.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sunday I spent first half of the day continuing my experiments with Homebrewing PCB.
+I was able to make this test pattern.
+The result was not that impressive as I expected. But I think I know how to improve this further.
+I think it can make about 12 mils trace with 12 mils width easily. Potential to go down to 10 mils.
+I used the new laminator and then used the UV tube and ballast I had ordered previously.
+I had a few learnings on the way, as I had to repeat 2-3 times because I messed up at each step.
+I had FeCl&lt;!-- raw HTML omitted -->3&lt;!-- raw HTML omitted --> etchant I had saved up from last year.
+I have ordered 3 more UV tube and Ballast to build my own UV exposure units.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;div class="box" style="max-width:400px">
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w12/pcb1.jpeg" alt="PCB test with different exposure times to UV"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w12/pcb1.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>PCB test with different exposure times to UV&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;ul>
+&lt;li>
+&lt;p>Sunday I spent some time to add a now page, and blog roll. But because I am still new to hugo - I have some issues.
+Hoping to get it working soon.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>This week I used ChatGPT at work. I used it for helping me with some boring schlep. That was nice!&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>I plan to sign up for an AWS account for S3. I don&amp;rsquo;t really like that I have my media committed to git.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>I got in touch with &lt;a href="https://taylor.town/">Taylor&lt;/a> after reading this &lt;a href="https://taylor.town/extinguish-all-notifications">post&lt;/a>. I got intrigued about nowify that is mentioned in the post. Search engines didn&amp;rsquo;t really throw up anything except &lt;a href="https://news.ycombinator.com/item?id=34881237">this&lt;/a> Orange website comment by Taylor. I reached out to them asking about nowify.
+Taylor was gracious enough to send me a copy for the code. I am yet to deep dive into it. Looks like I was not the only one (In fact 4 more people had reached out earlier to Taylor this month itself).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>I bought a subscription to brain.fm - Will report back after few weeks of use.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="interesting-internet">Interesting Internet&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/@Exurb1a">Exurb1a&lt;/a> is fast becoming my favorite youtube channel. I recommend this &lt;a href="https://www.youtube.com/watch?v=7g1pmHSWHe0">animated story&lt;/a> and &lt;a href="https://www.youtube.com/watch?v=i2wLyhgeYsw">this video about Buddhism&lt;/a> that I loved.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://manuelmoreale.com/passionless-web">This&lt;/a> article by &lt;a href="https://manuelmoreale.com/">manuelmoreale.com&lt;/a> captured and articulated some of my feelings about the web. I am always in search of blogs to follow by actual humans, rather than the content mills.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://nownownow.com/">nownownow&lt;/a> Inspired me to start working on my now page. WIP!&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=Nwp-C7DBcYg&amp;amp;ab_channel=TheBritishMuseum">Loved&lt;/a> this video about how old night clocks worked.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://adactio.com/journal/20040">This article&lt;/a> by &lt;a href="https://adactio.com/about/">Jeremy&lt;/a> is interesting and I think is how we should think about these new LLM tools, instead of hyping them up relentlessly like they are going to rule over us. Conditions apply.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>If you made it till here, you deserve some of the Orange cuteness.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;div class="gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/Weekly-Notes-2023-w12/orange1.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w12/orange1.jpeg" alt="Tfeeth"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w12/orange1.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Tfeeth&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/Weekly-Notes-2023-w12/orange2.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w12/orange2.jpeg" alt="Lazy ass"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w12/orange2.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Lazy ass&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/Weekly-Notes-2023-w12/orange3.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w12/orange3.jpeg" alt="Can you resist this cuteness"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w12/orange3.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Can you resist this cuteness&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/Weekly-Notes-2023-w12/orange4.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w12/orange4.jpeg" alt="World is my oyster, this box is mine now"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w12/orange4.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>World is my oyster, this box is mine now&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/div></description></item><item><title>Weekly Notes 2023 W11</title><link>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-2023-w11/</link><pubDate>Sun, 19 Mar 2023 23:46:55 +0530</pubDate><guid>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-2023-w11/</guid><description>&lt;h2 id="this-week">This week&lt;/h2>
 &lt;ul>
 &lt;li>
 &lt;p>&lt;strong>Nibling++&lt;/strong>: My cousin, with whom I spent countless summer vacations growing up, is now a proud parent. It&amp;rsquo;s crazy how fast time flies and how life changes.&lt;/p>
