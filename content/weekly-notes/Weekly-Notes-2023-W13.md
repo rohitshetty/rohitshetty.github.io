@@ -26,7 +26,7 @@ Monday, Tuesday, and Wednesday were mostly work.
 Monday and Tuesday were really productive. Wednesday was weird. Thursday and Friday were the worst. I could not get started with the tasks, and that caused issues with tasks piling up.
 This also meant I ended up screwing up my sleep, as I ended up sleeping in the office more, in the hope that I could get back to work sooner the next day.
 
-But it looks like that assumption is really wrong. As I get older (I am 28 - I can't wait to be 32, my first birthday since I've come to appreciate the power of 2 (pun really intended)), I realize I cannot pull through without good sleep for at least a few hours. The posture of my sleep matters (as someone who is famous for being able to sleep anywhere, including on a chair), and also the importance of having a routine.
+But it looks like that assumption is really wrong. As I get older(?!) (I am 28 - I can't wait to be 32, my first birthday since I've come to appreciate the power of 2 (pun really intended)), I realize I cannot pull through without good sleep for at least a few hours. The posture of my sleep matters (esp. for a self-proclaimed who-can-fall-asleep-anywhere-even-on-a-chair expert), and also the importance of having a routine.
 
 This week, I have started to go for walks during stand-up calls. I am still not doing it regularly, but even doing this a few times a week is a win for me.
 
@@ -54,17 +54,17 @@ Over the week, I have been trying to install [ActivityWatch](https://activitywat
 
 ## Interesting Internet
 
-- [Longest Running Experiment on Evolution by Veritasium](https://www.youtube.com/watch?v=w4sLAQvEH-M&ab_channel=Veritasium). Very interesting watch that follows a 30 year old, still running experiment on E-Coli Bacteria. The team daily transfers the bacteria to controlled environment, even during holidays. This has already resulted in giving valuable insights about Evolution and Natural Selection.
+- [Longest Running Experiment on Evolution by Veritasium](https://www.youtube.com/watch?v=w4sLAQvEH-M&ab_channel=Veritasium) - Very interesting watch that follows a 30 year old, still running experiment on e coli Bacteria. The team daily transfers the bacteria to controlled environment, even during holidays. This has already resulted in giving valuable insights about Evolution and Natural Selection.
 
 - Currently reading: [ChatGPT is a blurry jpeg of the web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)
 
-- [S3 as an eternal service](https://www.lastweekinaws.com/blog/s3-as-an-eternal-service/). As the end user of S3 we don't really think much about it. But the underlying engineering is really mind boggling, and this newsletter post puts it into perspective.
+- [S3 as an eternal service](https://www.lastweekinaws.com/blog/s3-as-an-eternal-service/) - As the end user of S3 we don't really think much about it. But the underlying engineering is really mind boggling, and this newsletter post puts it into perspective.
 
-- [Hacking a weird TV censoring device](https://www.youtube.com/watch?v=a6EWIh2D1NQ). Ben Eater opens up a TV censoring device, and tries to get out the list of censored word. A very good walk through of the process. I too want to go open some random device and try to make sense of it now.
+- [Hacking a weird TV censoring device](https://www.youtube.com/watch?v=a6EWIh2D1NQ) - Ben Eater opens up a TV censoring device, and tries to get out the list of censored word. A very good walk through of the process. I too want to go open some random device and try to make sense of it now.
 
-- [Why the US didn't nuke Tokyo?](https://www.youtube.com/watch?v=Pa_NpZszBqE&ab_channel=ThePresentPast). Seeing the title my, guess was because Tokyo was/is the largest city, Allies may not have wanted to cause large scale destruction, and hence chose smaller targets. But boy, was I wrong.
+- [Why the US didn't nuke Tokyo?](https://www.youtube.com/watch?v=Pa_NpZszBqE&ab_channel=ThePresentPast) - Seeing the title my, guess was because Tokyo was/is the largest city, Allies may not have wanted to cause large scale destruction, and hence chose smaller targets. But boy, was I wrong.
 
-- [ Noah takes a photo of himself every day for 20 years ](https://www.youtube.com/watch?v=wAIZ36GI4p8&ab_channel=NoahKalina). This is really interesting, and would want to try. But I lack consistency in anything, so 🤷
+- [ Noah takes a photo of himself every day for 20 years ](https://www.youtube.com/watch?v=wAIZ36GI4p8&ab_channel=NoahKalina) - This is really interesting, and would want to try. But I lack consistency in anything, so 🤷
 
 - If you made it till here, you deserve some of the Orange cuteness.
 
