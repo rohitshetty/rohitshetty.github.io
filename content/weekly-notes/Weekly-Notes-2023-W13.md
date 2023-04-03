@@ -1,7 +1,7 @@
 ---
 title: "Weekly Notes 2023 W13"
 date: 2023-04-03T13:55:48+05:30
-draft: true
+draft: false
 ---
 
 ## Last Week (2023W13)
