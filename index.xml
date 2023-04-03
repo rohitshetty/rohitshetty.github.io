@@ -1,4 +1,120 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>$ls /home/rohit/</title><link>https://blog.kernelanxiety.dev/</link><description>Recent content on $ls /home/rohit/</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 27 Mar 2023 11:51:02 +0530</lastBuildDate><atom:link href="https://blog.kernelanxiety.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Weekly Notes 2023 W12</title><link>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-2023-w12/</link><pubDate>Mon, 27 Mar 2023 11:51:02 +0530</pubDate><guid>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-2023-w12/</guid><description>&lt;h2 id="last-week-2023w12">Last week (2023W12)&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>$ls /home/rohit/</title><link>https://blog.kernelanxiety.dev/</link><description>Recent content on $ls /home/rohit/</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 03 Apr 2023 13:55:48 +0530</lastBuildDate><atom:link href="https://blog.kernelanxiety.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Weekly Notes 2023 W13</title><link>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-2023-w13/</link><pubDate>Mon, 03 Apr 2023 13:55:48 +0530</pubDate><guid>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-2023-w13/</guid><description>&lt;h2 id="last-week-2023w13">Last Week (2023W13)&lt;/h2>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">April&lt;/a> is here.&lt;/p>
+&lt;p>I got pranked accidentally by &lt;a href="https://www.youtube.com/watch?v=nGL8X8FS4eQ&amp;amp;ab_channel=EEVblog">this&lt;/a> 4-year-old video by EEVblog. In this video, EEVblog claims that because FeCl3 is mixed with water in really minute quantities, it should be possible to etch PCB using it if we can concentrate it, and proceeds to use a magnet to concentrate the said FeCl3 from the running tap water. This did flare up my BS detector, but given it was an old video and it was EEVBlog, I thought it was legit.&lt;/p>
+&lt;p>It took me some time and reading comments to realize, I had been pranked.&lt;/p>
+&lt;p>The moral of the story is - Do not trust anything blindly, even if it comes from sources you trust or is authoritative.&lt;/p>
+&lt;p>ಪ್ರಶ್ನಿಸದೆ ಒಪ್ಪಬೇಡಿ (Don&amp;rsquo;t trust without questioning)&lt;/p>
+&lt;blockquote class="twitter-tweet" data-conversation="none">&lt;p lang="en" dir="ltr">ಪ್ರಶ್ನಿಸದೆ ಒಪ್ಪಬೇಡಿ, inscribed in red in the office of H Narasimhaiah at National College Basavanagudi &lt;a href="http://t.co/sbNk4Riu8w">pic.twitter.com/sbNk4Riu8w&lt;/a>&lt;/p>&amp;mdash; vktkv (@Vktkv) &lt;a href="https://twitter.com/Vktkv/status/551966434877005825?ref_src=twsrc%5Etfw">January 5, 2015&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;hr>
+&lt;p>April marks the beginning of &lt;a href="https://en.wikipedia.org/wiki/Dalit_History_Month">Dalit history month&lt;/a>.&lt;/p>
+&lt;p>Monday, Tuesday, and Wednesday were mostly work.
+Monday and Tuesday were really productive. Wednesday was weird. Thursday and Friday were the worst. I could not get started with the tasks, and that caused issues with tasks piling up.
+This also meant I ended up screwing up my sleep, as I ended up sleeping in the office more, in the hope that I could get back to work sooner the next day.&lt;/p>
+&lt;p>But it looks like that assumption is really wrong. As I get older (I am 28 - I can&amp;rsquo;t wait to be 32, my first birthday since I&amp;rsquo;ve come to appreciate the power of 2 (pun really intended)), I realize I cannot pull through without good sleep for at least a few hours. The posture of my sleep matters (as someone who is famous for being able to sleep anywhere, including on a chair), and also the importance of having a routine.&lt;/p>
+&lt;p>This week, I have started to go for walks during stand-up calls. I am still not doing it regularly, but even doing this a few times a week is a win for me.&lt;/p>
+&lt;p>For most of this week, I had 3 meals. During the second half of the week, that derailed, and I ended up having only 1-2 meals. On Sunday, I just binged a lot on food. Tiny steps?&lt;/p>
+&lt;p>I have installed the &lt;a href="https://gpslogger.app/">GPSLogger app&lt;/a>. I will analyze my data at the end of this month to see what I can get from it.&lt;/p>
+&lt;p>I subscribed to &lt;a href="https://sixteengrams.com/">Sixteen Grams&lt;/a> this week. I find it really hard to decide on new coffee and end up spending a lot of time searching for my next coffee. I&amp;rsquo;m hoping Sixteen Grams can automate this for me.&lt;/p>
+&lt;p>This Friday, I installed &lt;a href="https://github.com/sissbruecker/linkding">Linkding, a bookmarking service&lt;/a> and &lt;a href="https://usememos.com/">Memos&lt;/a>, a memo app, on my server. I find Linkding really useful. Memos is also an interesting software. It is a memo app that has the look and feel of Twitter. I have been using it for a few days, although not as frequently as I would like. You can view my public memos &lt;a href="https://memo.kernelanxiety.dev/">here&lt;/a>.&lt;/p>
+&lt;p>On Saturday, I retried the PCB test again along with my colleague Anil. This time, I used some more techniques I learned from YouTube. One of which is to attach the laminate to the copper clad under the water, to avoid air bubbles. The results speak for themselves. I think I can now easily go down to 8 mils traces and 8 mils gap between traces.&lt;/p>
+&lt;link rel="stylesheet" href="https://blog.kernelanxiety.dev/css/hugo-easy-gallery.css" />
+&lt;div class="box" style="max-width:400px">
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w12/pcb1.jpeg" alt="PCB I made last week"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w12/pcb1.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>PCB I made last week&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" style="max-width:400px">
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w13/pcbv2.jpeg" alt="PCB I made this week"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w13/pcbv2.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>PCB I made this week&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;p>On Sunday, I did some local shopping for muriatic acid and hydrogen peroxide for some more experiments with stencil etching.&lt;/p>
+&lt;p>On Sunday, I ended up working for a few hours to clear up my earlier piled tasks.&lt;/p>
+&lt;p>I skip watched &lt;a href="https://en.wikipedia.org/wiki/Rocket_Singh:_Salesman_of_the_Year">Rocket Singh: Salesman of the year&lt;/a>.&lt;/p>
+&lt;p>Over the week, I have been trying to install &lt;a href="https://activitywatch.net/">ActivityWatch&lt;/a> and Logseq. But my OS (Linux Mint 19.3) is a problem. It is missing the latest version of GLIBC, which is causing issues with the install. I realized my version of the OS is outdated, as the end of support for this &lt;a href="https://en.wikipedia.org/wiki/Linux_Mint#Releases">version is April 2023&lt;/a>. I plan to update to Linux Mint 21.1. I really like that Mint has Timeshift. I will give it a try this week.&lt;/p>
+&lt;h2 id="interesting-internet">Interesting Internet&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=w4sLAQvEH-M&amp;amp;ab_channel=Veritasium">Longest Running Experiment on Evolution by Veritasium&lt;/a>. Very interesting watch that follows a 30 year old, still running experiment on E-Coli Bacteria. The team daily transfers the bacteria to controlled environment, even during holidays. This has already resulted in giving valuable insights about Evolution and Natural Selection.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Currently reading: &lt;a href="https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web">ChatGPT is a blurry jpeg of the web&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.lastweekinaws.com/blog/s3-as-an-eternal-service/">S3 as an eternal service&lt;/a>. As the end user of S3 we don&amp;rsquo;t really think much about it. But the underlying engineering is really mind boggling, and this newsletter post puts it into perspective.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=a6EWIh2D1NQ">Hacking a weird TV censoring device&lt;/a>. Ben Eater opens up a TV censoring device, and tries to get out the list of censored word. A very good walk through of the process. I too want to go open some random device and try to make sense of it now.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=Pa_NpZszBqE&amp;amp;ab_channel=ThePresentPast">Why the US didn&amp;rsquo;t nuke Tokyo?&lt;/a>. Seeing the title my, guess was because Tokyo was/is the largest city, Allies may not have wanted to cause large scale destruction, and hence chose smaller targets. But boy, was I wrong.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=wAIZ36GI4p8&amp;amp;ab_channel=NoahKalina"> Noah takes a photo of himself every day for 20 years &lt;/a>. This is really interesting, and would want to try. But I lack consistency in anything, so 🤷&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>If you made it till here, you deserve some of the Orange cuteness.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;div class="gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/Weekly-Notes-2023-w13/orange1.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w13/orange1.jpeg" alt="Boxed"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w13/orange1.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Boxed&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/Weekly-Notes-2023-w13/orange2.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w13/orange2.jpeg" alt="mi casa es tu casa"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w13/orange2.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>mi casa es tu casa&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/Weekly-Notes-2023-w13/orange3.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w13/orange3.jpeg" alt="Fang-shui"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w13/orange3.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Fang-shui&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/images/Weekly-Notes-2023-w13/orange4.jpeg');">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w13/orange4.jpeg" alt="Who has more fur? Rohit/Orange?"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w13/orange4.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Who has more fur? Rohit/Orange?&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/div></description></item><item><title>Weekly Notes 2023 W12</title><link>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-2023-w12/</link><pubDate>Mon, 27 Mar 2023 11:51:02 +0530</pubDate><guid>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-2023-w12/</guid><description>&lt;h2 id="last-week-2023w12">Last week (2023W12)&lt;/h2>
 &lt;p>I am writing this on a Monday morning, instead of Saturday or Sunday night.&lt;/p>
 &lt;p>Last week I had some good progress in my work. I am working with my therapist
 to fix my sleep cycle and irregular food habits.&lt;/p>
