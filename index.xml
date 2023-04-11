@@ -1,4 +1,100 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>$ls /home/rohit/</title><link>https://blog.kernelanxiety.dev/</link><description>Recent content on $ls /home/rohit/</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 03 Apr 2023 13:55:48 +0530</lastBuildDate><atom:link href="https://blog.kernelanxiety.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Weekly Notes 2023 W13</title><link>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-2023-w13/</link><pubDate>Mon, 03 Apr 2023 13:55:48 +0530</pubDate><guid>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-2023-w13/</guid><description>&lt;h2 id="last-week-2023w13">Last Week (2023W13)&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>$ls /home/rohit/</title><link>https://blog.kernelanxiety.dev/</link><description>Recent content on $ls /home/rohit/</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 11 Apr 2023 19:22:58 +0530</lastBuildDate><atom:link href="https://blog.kernelanxiety.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Weekly Notes 2023 W14</title><link>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-2023-w14/</link><pubDate>Tue, 11 Apr 2023 19:22:58 +0530</pubDate><guid>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-2023-w14/</guid><description>&lt;h2 id="last-week-2023w14">Last Week (2023W14)&lt;/h2>
+&lt;p>I realized after publishing my last week&amp;rsquo;s note that I have completed one month of weekly notes.&lt;/p>
+&lt;p>I am writing this on a Tuesday evening because on Sunday, I worked the whole day on a side project.&lt;/p>
+&lt;p>The first half of last week was mostly productive, but also a bit of a struggle.&lt;/p>
+&lt;p>I walked every day for the first half of the week for about 20 minutes, but I dropped it during the second half.&lt;/p>
+&lt;p>I have also been mostly sleeping in the office, but this week I want to slowly work towards getting healthy sleep. My sleep cycle has changed significantly, and I have been sleeping almost at dawn.&lt;/p>
+&lt;p>I have been capturing my photos once a day. Here is how it looks for last few days (Inspiration - Noah&amp;rsquo;s &lt;a href="https://www.youtube.com/watch?v=wAIZ36GI4p8&amp;amp;ab_channel=NoahKalina">project&lt;/a>).&lt;/p>
+&lt;link rel="stylesheet" href="https://blog.kernelanxiety.dev/css/hugo-easy-gallery.css" />
+&lt;div class="box" style="max-width:400px">
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w14/week1.gif" alt="Week 1 of capturing my face everyday"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w14/week1.gif" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Week 1 of capturing my face everyday&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;p>I found out a hack on how to center my face using the gridlines that the mobile camera app has. (My nose goes on the center marker, and my two eyes should be touching the two side grid lines.)&lt;/p>
+&lt;p>On Thursday, one of my coworkers remembered an anecdote or a study which claimed that it is difficult to stand on one leg with eyes closed than with eyes open. We tried to conduct a fun experiment with some of our other colleagues to see if it was true. We made a few of our colleagues stand on one leg with eyes open, and timed them, and then repeated with eyes closed. We repeated this a few times.&lt;/p>
+&lt;p>Our experiment had a lot of issues, including biases - and we cannot confidently say this is true. We messed up with the stats, but ended up laughing a lot. But I do see a trend in numbers where this can be true. More experimentation needed :P&lt;/p>
+&lt;p>I also ordered some glassware for our Chemistry lab of the Makerspace. They should be arriving this week. Nothing fancy, some basic beakers, flasks, and things like that.&lt;/p>
+&lt;p>I have started reading &lt;a href="https://www.goodreads.com/book/show/28446465-ooru-keri---i">Ooru Keri&lt;/a> by&lt;a href="https://en.wikipedia.org/wiki/Siddalingaiah_(poet)"> Siddalingaiah&lt;/a> and &lt;a href="https://www.goodreads.com/en/book/show/43319933">Every Tool&amp;rsquo;s a Hammer&lt;/a> by &lt;a href="https://en.wikipedia.org/wiki/Adam_Savage">Adam Savage&lt;/a>. Maybe I should add a page to track what I am reading?&lt;/p>
+&lt;p>I had lunch with my sister at &lt;a href="https://www.google.com/maps/place/Taiki/@12.9770198,77.6406551,15z/data=!4m6!3m5!1s0x3bae17989a110bbf:0xa5e6f82791be6a93!8m2!3d12.9770198!4d77.6406551!16s%2Fg%2F11h27yxsz6">Taiki&lt;/a> On Saturday.
+We had some Ramen, and Bao buns. Food was average.
+&lt;div class="box" style="max-width:400px">
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w14/taiki.jpeg" alt="Lunch at Taiki"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w14/taiki.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Lunch at Taiki&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/p>
+&lt;p>Most of the week, along with work, I have been thinking about woodworking. I have been binging on woodworking videos and tools. This is because I want to build my UV exposure box for making my PCBs.&lt;/p>
+&lt;p>On Saturday evening, I visited &lt;a href="https://www.google.com/maps/place/New+Thippasandra+Main+Rd,+New+Tippasandra,+Bengaluru,+Karnataka+560075/@12.9723664,77.6514596,19.04z/data=!4m6!3m5!1s0x3bae16aada624d45:0x1c0e85a3eb4063b6!8m2!3d12.97221!4d77.6527571!16s%2Fg%2F1tsr1mz1">New Thippsandra Market&lt;/a>. I went around exploring, and purchased a plank of MDF and some other hardware stuff I needed. I found a really helpful shop. These shops mostly cater professionals, so it is really rare for them to deal with amateurs like me who don&amp;rsquo;t know what they don&amp;rsquo;t know, which usually frustrates them. But the shop employees were super patient with me.&lt;/p>
+&lt;p>I have never worked on wood before, so this one was new. I binged a lot online on how to get started, and one of the pieces of advice was to sketch out what you plan to do.&lt;/p>
+&lt;div class="box" style="max-width:400px">
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w14/sketch.jpeg" alt="I sketched a layout"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w14/sketch.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>I sketched a layout&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;p>So Sunday afternoon, I started working on the sketch and wanted to empirically find out the dimensions before I cut the MDF. The main issue was to know the distance between UV tubelight and the glass exposure window.&lt;/p>
+&lt;p>So I resorted to cardboard boxes and made a bare bone prototype, adjusted the lengths to understand what an ideal dimension of this box would be.&lt;/p>
+&lt;div class="box" style="max-width:400px">
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w14/cardboard-proto.png" alt="Used this to get some idea about the dimensions"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w14/cardboard-proto.png" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Used this to get some idea about the dimensions&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;p>It was night by the time I got some clear picture about the dimensions. I didn&amp;rsquo;t want to start cutting the MDF now because it was too late in the evening for loud noise, and also I realized I didn&amp;rsquo;t have proper tools. I ended up modelling the box in fusion 360, as that was another advice I got from youtube videos (Make your mistakes in software, rather than IRL)&lt;/p>
+&lt;p>This week I plan to order some protective gear (Thank you &lt;a href="https://thejeshgn.com/2023/04/05/linked-list-my-set-of-personal-protective-equipment/">Thej&lt;/a> for the recommendations) and a woodworking router.&lt;/p>
+&lt;p>Sunday was really a special day because I enjoyed building after a long time. I was in flow. Earlier, because of my clumsy self and ADHD, it used to be very frustrating because I would misplace tools regularly while working, and also it would get very frustrating when things didn&amp;rsquo;t work out or get messed up because of a lack of tool or some preplanning on my end. But this time I wore an apron I had ordered earlier. This one held all my tools and was really helpful in reducing my frustration. I also gave myself some time when things didn&amp;rsquo;t work out and spent a lot of time thinking and planning before getting on to things.&lt;/p>
+&lt;p>I was really happy, even though I did not end up completing the project, but I was able to stop myself at night and didn&amp;rsquo;t get obsessed with it in an unhealthy way such that I would mess everything up.&lt;/p>
+&lt;p>I want to do more of these - where I spend weekends building things and enjoying the process instead of once in a while getting unhealthily obsessed with ideas.&lt;/p>
+&lt;p>I also see the value of a well-stocked Makerspace where there are tools for the job.&lt;/p>
+&lt;h2 id="interesting-internet">Interesting Internet&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=uzuYZi749CM">This on going series by Youtube &amp;ldquo;Useful Charts&amp;rdquo; on Christian Denominations&lt;/a> - I am an agnostic atheist, but I am very much interested in religion. I found this video series to be very interesting. I also recommend these two channels &lt;a href="https://www.youtube.com/@ReligionForBreakfast">Religion for Breakfast&lt;/a> and &lt;a href="https://www.youtube.com/@LetsTalkReligion">Let&amp;rsquo;s Talk Religion&lt;/a>. They have some amazing content on Religion from an academic point of view.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=UWhz3SXPWkg&amp;amp;ab_channel=UsefulCharts">Three part video on Psychology of Atheism by &amp;ldquo;Useful Charts&amp;rdquo;&lt;/a> - I found this very amusing mainly because of how the experiments were conducted, and also the inference from the survey.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=1usXh2tpRug&amp;amp;ab_channel=PaleBlueThoughts">The Silver Fox experiment&lt;/a> - Last week I had shared about a long running experiment on evolution, which used e-coli bacteria. This is another long running experiment, where one can see Evolution and selection pressure in action. This is a story of how a Russian scientist, &amp;ldquo;domesticated&amp;rdquo; wolves over the span of 30 years.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>If you made it till here, you deserve some of the Orange cuteness.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;div class="box" style="max-width:400px">
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w14/orange.jpeg" alt="Orangey Orange"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w14/orange.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Orangey Orange&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div></description></item><item><title>Weekly Notes 2023 W13</title><link>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-2023-w13/</link><pubDate>Mon, 03 Apr 2023 13:55:48 +0530</pubDate><guid>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-2023-w13/</guid><description>&lt;h2 id="last-week-2023w13">Last Week (2023W13)&lt;/h2>
 &lt;p>&lt;a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">April&lt;/a> is here.&lt;/p>
 &lt;p>I got pranked accidentally by &lt;a href="https://www.youtube.com/watch?v=nGL8X8FS4eQ&amp;amp;ab_channel=EEVblog">this&lt;/a> 4-year-old video by EEVblog. In this video, EEVblog claims that because FeCl3 is mixed with water in really minute quantities, it should be possible to etch PCB using it if we can concentrate it, and proceeds to use a magnet to concentrate the said FeCl3 from the running tap water. This did flare up my BS detector, but given it was an old video and it was EEVBlog, I thought it was legit.&lt;/p>
 &lt;p>It took me some time and reading comments to realize, I had been pranked.&lt;/p>
