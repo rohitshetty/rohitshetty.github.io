@@ -43,7 +43,7 @@ I purchased a lot of Zines from Bazinega's zine festival for our collection at B
 On _Sunday_, my sister visited me at our office, and we had lunch together. In the evening, Sachin and I took Bruce to Cubbon Park. We enjoyed a long walk around the park and played with Bruce.
 
 {{<figure src="/images/Weekly-Notes-2023-w24/bruce.jpeg" caption="Bruce Almighty" width="200px">}}
-{{<figure src="/images/Weekly-Notes-2023-w24/bruce_walk.jpeg" caption="Bruce Almighty" width="400px">}}
+{{<figure src="/images/Weekly-Notes-2023-w24/bruce_walk.jpeg" caption="Down the Rock" width="400px">}}
 
 After returning, I took a nice nap.
 
