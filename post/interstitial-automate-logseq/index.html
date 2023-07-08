@@ -1,0 +1,112 @@
+<!doctype html><html lang=en-us>
+<head>
+<meta charset=utf-8>
+<meta name=generator content="Hugo 0.88.1">
+<meta http-equiv=x-ua-compatible content="IE=edge">
+<meta name=viewport content="width=device-width,initial-scale=1">
+<meta name=author content="Rohit">
+<meta property="og:url" content="https://blog.kernelanxiety.dev/post/interstitial-automate-logseq/">
+<title>Periodic reminders for Interstitial journaling - $ls /home/rohit/</title>
+<meta property="og:title" content="Periodic reminders for Interstitial journaling - $ls /home/rohit/">
+<meta property="og:type" content="article">
+<meta name=description content>
+<link rel=stylesheet href=/css/fonts.css>
+<link rel=stylesheet href=/css/highlight.css>
+<link rel=stylesheet href=/css/journal.css>
+<link href=/index.xml rel=alternate type=application/rss+xml title="$ls /home/rohit/">
+</head>
+<body>
+<div class=container>
+<nav class=site-nav>
+<a href=https://blog.kernelanxiety.dev>Index</a>
+</nav>
+<article class=post>
+<header class=post-header>
+<h1 class=post-title>Periodic reminders for Interstitial journaling</h1>
+<time class=post-date datetime="2023-07-08 08:01:23 +0530">08 Jul 2023</time>
+</header>
+<p>I first came across Interstitial Journaling from <a href=https://nesslabs.com/interstitial-journaling>this</a> post by Nesslabs a long time back. I used it for some time (few hours at most!).</p>
+<p>My ADHD makes it difficult for me to be aware of the passage of time when I am either in hyperfocus or procrastination mode. Additionally, not having a solid system to log it was bothering me. Where should I store this file? What would be the easiest way to give it a timestamped name? Argh! Decisions, decisions!</p>
+<p>A few months back, when I got diagnosed with ADHD, I wanted to build an app that would run in the background on my laptop. Every 30 minutes or so, it would pop up and ask me what I was doing and if I was using my time consciously. I researched options but couldn&rsquo;t really find anything that fit the bill. So, I decided to build it myself (spoiler: I didn&rsquo;t).</p>
+<p>I looked into <a href=https://slgobinath.github.io/SafeEyes/>SafeEyes</a> for inspiration. It was almost doing what I wanted—it ran in the background and would block the whole screen every N minutes, forcing you to take a break. I needed something similar, but instead of a break screen, I wanted a GUI text box for input.</p>
+<p>I learnt GTK+ 3 and RPC library in Python to build this. I even started writing some code, but then I lost momentum, and it went nowhere.</p>
+<p>For the past few months, I have been using Logseq. I really like the UI and the app itself. It simplifies the process of logging my day, even though I don&rsquo;t do it regularly. The home page serves as a running journal that automatically opens to the current date, so I don&rsquo;t have to worry about organizing the logs or naming them. I also use the Logseq <a href=https://github.com/QWxleA/logseq-interstitial-heading-plugin>Interstitial Heading Plugin</a>, which helps me enter the current time more easily.</p>
+<link rel=stylesheet href=/css/hugo-easy-gallery.css>
+<div class="box fancy-figure caption-position-bottom caption-effect-none">
+<figure itemprop=associatedMedia itemscope itemtype=http://schema.org/ImageObject>
+<div class=img>
+<img itemprop=thumbnail src=/images/interstitial-automate-logseq/logseq-interstitial.png alt="One day in Logseq">
+</div>
+<a href=/images/interstitial-automate-logseq/logseq-interstitial.png itemprop=contentUrl></a>
+<figcaption>
+<p>One day in Logseq</p>
+</figcaption>
+</figure>
+</div>
+<p>Now I have a good way to do interstitial journaling, but I still struggle with forgetting to log it down.</p>
+<p>Initially, I started out by attempting to write a Python script to solve this. However, I soon realized that I already have the necessary tools to do this, and all I really need is a simple glue script.</p>
+<ul>
+<li>I use Linux Mint with the <a href=https://i3wm.org/>i3 window manager</a>.</li>
+<li>Linux Mint and Ubuntu come with <code>notify-send</code> for sending native notifications, which takes care of visual reminders.</li>
+<li>i3 has <code>i3-msg</code>, which I can use to send commands to the i3 window manager to locate a window with the title &ldquo;Logseq&rdquo; and switch to its view. If you are using a different window manager, <a href=https://github.com/jordansissel/xdotool>xdotool</a> can be a good alternative.</li>
+<li>Additionally, I already have <code>paplay</code> installed because my system has PulseAudio, which can be used to play chimes as audio reminders.</li>
+<li>Finally, I can utilize <code>cron</code> to schedule and run this glue script every 30 minutes.</li>
+</ul>
+<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=color:#75715e>#!/bin/bash
+</span><span style=color:#75715e></span>
+<span style=color:#75715e># Show notification for 5 seconds</span>
+notify-send <span style=color:#e6db74>&#34;Log what you are doing now!&#34;</span> -t <span style=color:#ae81ff>5000</span>
+
+<span style=color:#75715e># Play the beep 3 times?</span>
+<span style=color:#66d9ef>for</span> i in <span style=color:#f92672>{</span>1..3<span style=color:#f92672>}</span>
+<span style=color:#66d9ef>do</span>
+  <span style=color:#75715e>#this audio clip was copied from /usr/share/sounds/ubuntu/notifications that was bundled with my OS</span>
+  <span style=color:#75715e># Replace the path to the location of this project - use the full path</span>
+  paplay /home/rohit/dev/projects/interstital-reminder/Xylo.ogg
+<span style=color:#66d9ef>done</span>
+
+<span style=color:#75715e># Jump to Logseq</span>
+<span style=color:#75715e># You can use xdotool if you do not use i3wm</span>
+i3-msg <span style=color:#e6db74>&#34;[title=\&#34;Logseq\&#34;] focus&#34;</span>
+
+paplay /home/rohit/dev/projects/interstital-reminder/Mallet.ogg
+
+</code></pre></div><p>Run this with <code>bash run.sh</code> - it should</p>
+<ol>
+<li>Should display a notification</li>
+<li>play the reminder sound (&ldquo;Xylo.ogg&rdquo;) three times and</li>
+<li>Switch the focus to Logseq, accompanied by a completion sound (&ldquo;Mallet.ogg&rdquo;).</li>
+</ol>
+<p>Now, in order to run this script every 30 minutes, we will utilize <a href=https://linuxhint.com/cron_jobs_complete_beginners_tutorial/>cron</a>.</p>
+<p>Use <code>crontab -e</code> to open your cron definition and append</p>
+<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash>SHELL<span style=color:#f92672>=</span>/bin/bash
+
+*/30 * * * * XDG_RUNTIME_DIR<span style=color:#f92672>=</span>/run/user/<span style=color:#66d9ef>$(</span>id -u<span style=color:#66d9ef>)</span> DISPLAY<span style=color:#f92672>=</span>:0 bash /home/rohit/dev/projects/interstital-reminder/run.sh &gt; /home/rohit/dev/projects/interstital-reminder/log.txt 2&gt;&amp;<span style=color:#ae81ff>1</span>
+</code></pre></div><p><code>SHELL=/bin/bash</code> - Use bash instead of default <code>sh</code></p>
+<p><code>*/30 * * * *</code> - Cron pattern for running every 30 mins - <a href=https://crontab.guru/>Resource to explore</a></p>
+<p><code>XDG_RUNTIME_DIR=/run/user/$(id -u) DISPLAY=:0</code> - To ensure that <code>paplay</code> and <code>notify-send</code> work correctly when executed by cron, you need to set the environment variables using this.</p>
+<p>Since cron runs independently, it does not inherit environment variables automatically. For more detailed explanations, you can refer to <a href=https://askubuntu.com/a/1360992>this</a> and <a href=https://askubuntu.com/questions/872792/what-is-xdg-runtime-dir>this</a> resources.</p>
+<p><code>bash /home/rohit/dev/projects/interstital-reminder/run.sh > /home/rohit/dev/projects/interstital-reminder/log.txt 2>&1</code> - run the script using bash, redirect the output to a text file.</p>
+<p>Demo here: <a href=https://youtu.be/_HS7i2e-WlI>https://youtu.be/_HS7i2e-WlI</a></p>
+<p>You can find the code here: <a href=https://github.com/rohitshetty/Interstitial-reminder>https://github.com/rohitshetty/Interstitial-reminder</a></p>
+<p>I hope that I will continue using Interstitial journaling with this tool and that hacking this together was not just another way for me to procrastinate :P</p>
+</article>
+<footer class=site-footer>
+<span itemscope itemtype=http://schema.org/Person>
+<link itemprop=url href=https://blog.kernelanxiety.dev>
+<span itemprop=name>Rohit</span>
+,
+<span itemprop=jobTitle>Developer</span> at
+<span itemprop=memberOf itemscope itemtype=http://schema.org/Organization><a itemprop=url href=https://beneathatree.com/><span itemprop=name>Beneath A Tree Consultancy</span></a></span>
+&
+          <span itemprop=jobTitle>Maker</span> at
+<span itemprop=memberOf itemscope itemtype=http://schema.org/Organization><a itemprop=url href=https://bat.school/><span itemprop=name>Beneath A Tree Learning</span></a></span><br>
+<a itemprop=sameAs href=/index.xml title=RSS><img src=https://wp-assets.rss.com/blog/wp-content/uploads/2019/10/10111557/social_style_3_rss-512-1.png style=height:20px> </a>
+<a itemprop=sameAs href=https://github.com/rohitshetty title=GitHub>GH</a>
+</span>
+</footer>
+</div>
+<script src=/js/highlight.pack.js></script>
+<script>hljs.initHighlightingOnLoad()</script>
+</body>
+</html>
