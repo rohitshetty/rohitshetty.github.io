@@ -1,4 +1,176 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>$ls /home/rohit/</title><link>https://blog.kernelanxiety.dev/</link><description>Recent content on $ls /home/rohit/</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 08 Jul 2023 08:01:23 +0530</lastBuildDate><atom:link href="https://blog.kernelanxiety.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Periodic reminders for Interstitial journaling</title><link>https://blog.kernelanxiety.dev/post/interstitial-automate-logseq/</link><pubDate>Sat, 08 Jul 2023 08:01:23 +0530</pubDate><guid>https://blog.kernelanxiety.dev/post/interstitial-automate-logseq/</guid><description>&lt;p>I first came across Interstitial Journaling from &lt;a href="https://nesslabs.com/interstitial-journaling">this&lt;/a> post by Nesslabs a long time back. I used it for some time (few hours at most!).&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>$ls /home/rohit/</title><link>https://blog.kernelanxiety.dev/</link><description>Recent content on $ls /home/rohit/</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 23 Jul 2023 20:42:06 +0530</lastBuildDate><atom:link href="https://blog.kernelanxiety.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Weekly Notes 2023 W29</title><link>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-2023-w29/</link><pubDate>Sun, 23 Jul 2023 20:42:06 +0530</pubDate><guid>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-2023-w29/</guid><description>&lt;p>I missed adding notes for W26, W27, and W28 due to ongoing sleep issues and low productivity, which left me with little energy to gather my thoughts and write. Although I continue to log things in logseq, compiling and fixing the grammar consumes much of the energy I lack.&lt;/p>
+&lt;h2 id="w26-w27-w28">W26, W27, W28&lt;/h2>
+&lt;p>Weeks W26 to W28 were primarily focused on work with only a few noteworthy events:
+But here are things I would like to document:&lt;/p>
+&lt;ul>
+&lt;li>On June 30, I found out that Raspberry Pi&amp;rsquo;s are back in stock after being unavailable for hobbyists for 2 years due to the COVID chip shortage. I ordered a few for our makerspace.&lt;/li>
+&lt;/ul>
+&lt;link rel="stylesheet" href="https://blog.kernelanxiety.dev/css/hugo-easy-gallery.css" />
+&lt;div class="box" style="max-width:200px">
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w29/pi_zero.jpeg" alt="Pi Zero W"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w29/pi_zero.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Pi Zero W&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" style="max-width:200px">
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w29/pi_4.jpeg" alt=" Pi4 Model B 2GB"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w29/pi_4.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p> Pi4 Model B 2GB&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;ul>
+&lt;li>
+&lt;p>There was some great news from two of our clients:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>One of the client projects I work on at Beneathatree is for &lt;a href="https://uplift.ai/">Uplift&lt;/a>. Uplift was in the news recently as they were used by MLB for player scouting - &lt;a href="https://www.wsj.com/sports/baseball/mlb-draft-artificial-intelligence-97522ebf?mod=djemalertNEWS">here&lt;/a> &lt;a href="https://techcrunch.com/2023/06/29/major-league-baseball-embraces-3d-motion-tracking-to-scout-players/">are&lt;/a> &lt;a href="https://www.sportsbusinessjournal.com/Daily/Issues/2023/06/28/Technology/mlb-uplift-labs.aspx">some&lt;/a> news articles about it.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Another one of our client for whom I work is &lt;a href="https://digifarm.io/">Digifarm&lt;/a>. We recently &lt;a href="https://www.linkedin.com/posts/digifarming_partial-deep-resolution-product-get-ready-activity-7081941687723335680-5EWM?utm_source=share&amp;amp;utm_medium=member_desktop">launched the private beta for an exciting product I have been working on for many weeks&lt;/a>.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>There is a &lt;a href="https://www.instagram.com/tribalcoffee.co">new food truck that serves specialty coffee now at Indiranagar 6th main&lt;/a>. I have been going there pretty much every day for my evening coffee ever since I discovered it on the 5th of July. It ends up adding a break to the day, and the coffee is also good.
+&lt;div class="box" style="max-width:200px">
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w29/pili.jpeg" alt="They have beautiful cups"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w29/pili.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>They have beautiful cups&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" style="max-width:200px">
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w29/reusable.jpeg" alt="But I have been using this reusable cup instead"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w29/reusable.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>But I have been using this reusable cup instead&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/p>
+&lt;p>While we are at coffee, I have been enjoying Savor Works' &lt;a href="https://www.savorworksroasters.com/products/fruits-bomb">Fruits Bomb&lt;/a> for my morning pourover.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>I published &lt;a href="https://blog.kernelanxiety.dev/post/interstitial-automate-logseq/">this&lt;/a> article about how I automated Logseq Interstitial journaling.&lt;/p>
+&lt;p>I have been practicing interstitial journaling, but it is not as regular or detailed as I would like it to be.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Started on &lt;a href="https://en.wikipedia.org/wiki/Quetiapine">Quetiapine&lt;/a> on July 13th. This has been helping with sleep.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>I joined online classes for Beginners Urdu literacy - &lt;a href="https://pages.razorpay.com/B26Shuruaat">Shuruaat-e-Urdu&lt;/a> run by &lt;a href="https://www.instagram.com/akshita.works/?hl=en">Akshita&lt;/a>. This course enables a learner to be able to read and write short sentences in Urdu&amp;rsquo;s Perso-Arabic script in just 9 weeks, Inshallah.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="coffee-dopamine-and-sleep">Coffee, Dopamine and sleep&lt;/h2>
+&lt;p>During W26 and W27, I experienced sleep issues and a gloomy mood generally. Restarting coffee consumption seemed to help. Quetiapine has been relatively effective for improving my sleep, but it comes with a side effect - vivid dreams, which makes my sleep more interesting. To optimize dopamine, I started taking cold showers in the morning and maintained regular coffee intake, having either pour-over or aeropress in the morning and an americano in the evening&lt;/p>
+&lt;h2 id="last-week2023w29">Last Week(2023W29)&lt;/h2>
+&lt;p>Monday and Tuesday were mostly work, nothing log-worthy happened. I have been having regular deep sleep and have mostly been going to bed at night.&lt;/p>
+&lt;p>Wednesday was my 10,365th day on earth. I got reminded of &lt;a href="https://evanp.me/2023/07/18/20000-days/">this&lt;/a> because of a post by &lt;a href="https://cosocial.ca/@evan">Evan Prodromou&lt;/a>.&lt;/p>
+&lt;p>Thursday, I ordered a cassette player to explore the music we have in cassettes at our Archive. I discovered &lt;a href="https://en.wikipedia.org/wiki/MTV_Unplugged_in_New_York">Nirvana Unplugged&lt;/a> because of that. I have been listening to Nirvana.&lt;/p>
+&lt;div class="box" style="max-width:250px">
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w29/cassette.jpeg" alt="Hipsterification complete?"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w29/cassette.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Hipsterification complete?&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;p>On Friday, my colleague, H, conducted an informal workshop on GraphQL. He showed us the project he had built to explore GraphQL.&lt;/p>
+&lt;p>On Saturday, I had my third Urdu class. We explored the concept of connector/non-connector words, along with how some characters change their shape in Nastaleeq script. Did you know that in Urdu, usually, the &amp;lsquo;e&amp;rsquo; and &amp;lsquo;u&amp;rsquo; vowels are left to be interpreted by the reader based on context?!&lt;/p>
+&lt;p>Later that evening, Arpana dropped by. We took a walk to Tribal coffee co truck and then had our dinner at our favorite place for Kerala food - Salt mango tree.&lt;/p>
+&lt;div class="box" style="max-width:250px">
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w29/smt.jpeg" alt="Amazingly soothing!"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w29/smt.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Amazingly soothing!&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;p>I worked on a script to parse my Logseq sleep log to chart my sleep timing and duration.&lt;/p>
+&lt;p>Here is how my sleep time has been changing over the weeks. You can see some stability (yet to be proved if this is substantial) after I got on new meds.&lt;/p>
+&lt;p>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w29/Sleep_Wakeup_Heatmap.png" alt="Sleep hours logged"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w29/Sleep_Wakeup_Heatmap.png" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Sleep hours logged&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w29/Sleep_Duration_Heatmap.png" alt="Sleep duration tracked"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w29/Sleep_Duration_Heatmap.png" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Sleep duration tracked&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/p>
+&lt;p>&lt;em>If you made it till here, you deserve some of the Orange cuteness.&lt;/em>&lt;/p>
+&lt;p>
+&lt;div class="box" style="max-width:400px">
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w29/o1.jpeg" alt="🦖 🦖 🦖 🦖 hands"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w29/o1.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>🦖 🦖 🦖 🦖 hands&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" style="max-width:400px">
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w29/o2.jpeg" alt="Sleeps like a baby"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w29/o2.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Sleeps like a baby&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w29/o3.jpeg" alt="And Some blep for you"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w29/o3.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>And Some blep for you&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/p></description></item><item><title>Periodic reminders for Interstitial journaling</title><link>https://blog.kernelanxiety.dev/post/interstitial-automate-logseq/</link><pubDate>Sat, 08 Jul 2023 08:01:23 +0530</pubDate><guid>https://blog.kernelanxiety.dev/post/interstitial-automate-logseq/</guid><description>&lt;p>I first came across Interstitial Journaling from &lt;a href="https://nesslabs.com/interstitial-journaling">this&lt;/a> post by Nesslabs a long time back. I used it for some time (few hours at most!).&lt;/p>
 &lt;p>My ADHD makes it difficult for me to be aware of the passage of time when I am either in hyperfocus or procrastination mode. Additionally, not having a solid system to log it was bothering me. Where should I store this file? What would be the easiest way to give it a timestamped name? Argh! Decisions, decisions!&lt;/p>
 &lt;p>A few months back, when I got diagnosed with ADHD, I wanted to build an app that would run in the background on my laptop. Every 30 minutes or so, it would pop up and ask me what I was doing and if I was using my time consciously. I researched options but couldn&amp;rsquo;t really find anything that fit the bill. So, I decided to build it myself (spoiler: I didn&amp;rsquo;t).&lt;/p>
 &lt;p>I looked into &lt;a href="https://slgobinath.github.io/SafeEyes/">SafeEyes&lt;/a> for inspiration. It was almost doing what I wanted—it ran in the background and would block the whole screen every N minutes, forcing you to take a break. I needed something similar, but instead of a break screen, I wanted a GUI text box for input.&lt;/p>
