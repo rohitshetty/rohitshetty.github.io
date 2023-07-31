@@ -1,4 +1,159 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>$ls /home/rohit/</title><link>https://blog.kernelanxiety.dev/</link><description>Recent content on $ls /home/rohit/</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 23 Jul 2023 20:42:06 +0530</lastBuildDate><atom:link href="https://blog.kernelanxiety.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Weekly Notes 2023 W29</title><link>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-2023-w29/</link><pubDate>Sun, 23 Jul 2023 20:42:06 +0530</pubDate><guid>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-2023-w29/</guid><description>&lt;p>I missed adding notes for W26, W27, and W28 due to ongoing sleep issues and low productivity, which left me with little energy to gather my thoughts and write. Although I continue to log things in logseq, compiling and fixing the grammar consumes much of the energy I lack.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>$ls /home/rohit/</title><link>https://blog.kernelanxiety.dev/</link><description>Recent content on $ls /home/rohit/</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 31 Jul 2023 17:08:34 +0530</lastBuildDate><atom:link href="https://blog.kernelanxiety.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Weekly Notes 2023 W30</title><link>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-2023-w30/</link><pubDate>Mon, 31 Jul 2023 17:08:34 +0530</pubDate><guid>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-2023-w30/</guid><description>&lt;h2 id="last-week2023w30">Last Week(2023W30)&lt;/h2>
+&lt;p>This week was low on productivity, but I was able to get good sleep (more than 7 hours). Hopefully, this streak of good sleep continues.&lt;/p>
+&lt;link rel="stylesheet" href="https://blog.kernelanxiety.dev/css/hugo-easy-gallery.css" />
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w30/sleep_duration.png" alt="Duration of sleep each day"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w30/sleep_duration.png" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Duration of sleep each day&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w30/wakeup_slept.png" alt="When I am Going to bed and waking up"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w30/wakeup_slept.png" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>When I am Going to bed and waking up&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;p>I have restarted using &lt;a href="https://activitywatch.net/">ActivityWatch&lt;/a>, but I forget to turn it on regularly, and I am still facing issues in getting it to work with systemd (or some other way to launch it on boot).&lt;/p>
+&lt;p>I watched Oppenheimer this week with my Beneathatree team. What is there to say about this that has not already been said?&lt;/p>
+&lt;div class="box" style="max-width:400px">
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w30/lovely.jpeg" alt="One Lovely evening in Indiranagar"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w30/lovely.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>One Lovely evening in Indiranagar&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;p>On Saturday, we had a team hackathon where we attempted to build a two-wheeler robot. We started by exploring ESP8266 and built the robot chassis. The plan is to start coding next week. It was a fantastic experience.&lt;/p>
+&lt;p>Saturday was also my 4th Urdu class. We learned about the connector forms of the Bey family. I am surprised every time I can decipher even a little bit of &lt;a href="https://en.wikipedia.org/wiki/Nastaliq">Nastaliq&lt;/a> writing I come across.&lt;/p>
+&lt;p>For example:
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w30/asaan.png" alt="First time when I deciphered this - I was ecstatic"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w30/asaan.png" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>First time when I deciphered this - I was ecstatic&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/p>
+&lt;p>I can now write small words (though with lots of effort and mistakes) like&lt;/p>
+&lt;div class="box" style="max-width:200px">
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w30/urdu_4.jpeg" alt="Few words I wrote in Nastaliq"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w30/urdu_4.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Few words I wrote in Nastaliq&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;p>&lt;a href="https://www.instagram.com/urdusaathi/">Akshitha&lt;/a> is an amazing teacher who teaches Urdu through Pop culture - check her out in case you too want to give it a try.&lt;/p>
+&lt;p>Ended the week with dinner at &lt;a href="https://goo.gl/maps/FKmPS6Pu7J3588Qo6">Basaveshwara Khanavali&lt;/a>, along with Girish and Anil.&lt;/p>
+&lt;p>This &lt;a href="https://alar.ink/dictionary/kannada/english/%E0%B2%96%E0%B2%BE%E0%B2%A8%E0%B2%BE%E0%B2%B5%E0%B2%B3%E0%B2%BF">Khanavali&lt;/a> serves North Karnataka Lingayat cuisine. The ambiance is that of a cafe (I joked that it is a gentrified Khanavali), but the taste was homely, and their thali was unlimited.
+Their staff was really hospitable - they kept encouraging us to have more and relish all their items.&lt;/p>
+&lt;div class="box" style="max-width:200px">
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w30/hippocrates.jpeg" alt="On our walk back, found this house of a Hippocrates fan"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w30/hippocrates.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>On our walk back, found this house of a Hippocrates fan&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;p>I have been thinking/working on a few ideas for the blog.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>I finally have an AWS account I can use - I want to move my images there and use S3 as my image host. I always felt awkward committing the images into git.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>I was able to export my sleep log into graphs - I want to explore more to see what I can track easily and export. I have been logging my satisfaction with productivity since last week&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>I have [[devlog]] in logseq, where I write about some problems I may have solved. I am working on a script to automatically sync it into my blog here (Maybe with a different RSS feed, to avoid having to pollute this)&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="interesting-internet">Interesting Internet&lt;/h2>
+&lt;p>&lt;a href="https://www.instagram.com/blr.on.this.day/">blr.on.this.day&lt;/a> - This is an interesting Instagram page I have been following for several weeks. It uses the archives of Bangalore Spectator (1877-1895) sourced from the &lt;a href="https://www.britishnewspaperarchive.co.uk/titles/bangalore-spectator">British Newspaper Archive&lt;/a>. The page posts about interesting things that happened on this day. I have come across several fascinating gems, and I would like to document them in one place. Perhaps a blog post is due?&lt;/p>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=oQQpAACa3ac&amp;amp;ab_channel=DroneBotWorkshop">Arduino Robot Car with Speed Sensors - Using Arduino Interrupts&lt;/a> - While preparing for my team&amp;rsquo;s hackathon, I had to do some initial research, and I found this video useful.&lt;/p>
+&lt;p>&lt;a href="https://www.alexmolas.com/2023/07/15/nobody-cares-about-your-blog.html">Nobody cares about your blog&lt;/a> - An article about why nobody cares about your blog, but why you should still blog.&lt;/p>
+&lt;p>This reminds me of lines from &lt;a href="https://www.youtube.com/watch?v=H-99yoLymF8">this&lt;/a> poem by &lt;a href="https://en.wikipedia.org/wiki/G._S._Shivarudrappa">G.S. Shivarudrappa&lt;/a>:&lt;/p>
+&lt;p>ಎಲ್ಲ ಕೇಳಲಿ ಎಂದು ನಾನು ಹಾಡುವುದಿಲ್ಲ&lt;br>
+ಹಾಡುವುದು ಅನಿವಾರ್ಯ ಕರ್ಮ ನನಗೆ&lt;/p>
+&lt;p>ಕೇಳುವವರಿಹರೆಂದು ನಾನು ಬಲ್ಲೆ ಅದರಿಂದ&lt;br>
+ಹಾಡುವೆನು ಮೈದುಂಬಿ ಎಂದಿನಂತೆ&lt;br>
+ಯಾರು ಕಿವಿ ಮುಚ್ಚಿದರೂ ನನಗಿಲ್ಲ ಚಿಂತೆ.&lt;/p>
+&lt;p>&amp;ldquo;I sing for no one&lt;br>
+I seek no audience; you see&lt;br>
+Singing is what I do,&lt;br>
+A sheer necessity.&lt;/p>
+&lt;p>I know there are those who will listen&lt;br>
+And so I sing my song&lt;br>
+If someone were to cover their ears&lt;br>
+I take no offense and go on.&amp;rdquo;&lt;/p>
+&lt;p>&lt;a href="http://cp-ravikumar-kannadapoems2english.blogspot.com/2013/12/the-song-of-bird.html">Complete Translation&lt;/a>&lt;/p>
+&lt;p>&lt;em>If you made it till here, you deserve some of the Orange cuteness.&lt;/em>&lt;/p>
+&lt;div class="box" style="max-width:600px">
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w30/orange_sachin.jpeg" alt="Sachin took this beautiful photo of Orange"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w30/orange_sachin.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Sachin took this beautiful photo of Orange&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" style="max-width:400px">
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w30/orange.jpeg" alt="Orange on a lazy sunday noon"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w30/orange.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Orange on a lazy sunday noon&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" style="max-width:400px">
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w30/orange1.jpeg" alt="Then she napped"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w30/orange1.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Then she napped&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" style="max-width:400px">
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w30/loafer.jpeg" alt="Loaf of loafer"/>
+&lt;/div>
+&lt;a href="https://blog.kernelanxiety.dev/images/Weekly-Notes-2023-w30/loafer.jpeg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Loaf of loafer&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div></description></item><item><title>Weekly Notes 2023 W29</title><link>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-2023-w29/</link><pubDate>Sun, 23 Jul 2023 20:42:06 +0530</pubDate><guid>https://blog.kernelanxiety.dev/weekly-notes/weekly-notes-2023-w29/</guid><description>&lt;p>I missed adding notes for W26, W27, and W28 due to ongoing sleep issues and low productivity, which left me with little energy to gather my thoughts and write. Although I continue to log things in logseq, compiling and fixing the grammar consumes much of the energy I lack.&lt;/p>
 &lt;h2 id="w26-w27-w28">W26, W27, W28&lt;/h2>
 &lt;p>Weeks W26 to W28 were primarily focused on work with only a few noteworthy events:
 But here are things I would like to document:&lt;/p>
