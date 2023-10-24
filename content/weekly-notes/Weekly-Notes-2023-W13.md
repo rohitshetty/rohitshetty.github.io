@@ -68,10 +68,10 @@ Over the week, I have been trying to install [ActivityWatch](https://activitywat
 
 - If you made it till here, you deserve some of the Orange cuteness.
 
-{{< gallery caption-position="bottom"  >}}
+{{< galleryold caption-position="bottom"  >}}
 {{<figure src="/images/Weekly-Notes-2023-w13/orange1.jpeg" caption="Boxed" >}}
 {{<figure src="/images/Weekly-Notes-2023-w13/orange2.jpeg" caption="mi casa es tu casa" >}}
 {{<figure src="/images/Weekly-Notes-2023-w13/orange3.jpeg" caption="Fang-shui" >}}
 {{<figure src="/images/Weekly-Notes-2023-w13/orange4.jpeg" caption="Who has more fur? Rohit/Orange?" >}}
 
-{{< /gallery >}}
+{{< /galleryold >}}

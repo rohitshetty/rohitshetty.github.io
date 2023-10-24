@@ -34,7 +34,7 @@ I really enjoyed my visit to the state museum. I saw a few original Harappan art
 
 There were also a set of sculptures belonging to the 11th-13th centuries found in Guwahati. Most of these were of the same few deities but were in different stages of completion, and it looks like the artist focused on different aspects of the sculpture in each piece, carving those aspects very intricately, where as skimping over others, it was as if they were honing their techniques. I also found a few erotic sculptures dating back to the 10th century. It is always interesting to see how the sense of 'morality' and 'obscenity' has changed over the centuries.
 
-{{< gallery caption-position="bottom"  >}}
+{{< galleryold caption-position="bottom"  >}}
 {{<figure src="/images/Weekly-Notes-2023-w23/ASM1.jpeg" caption="Intricately carved block of Pillar" >}}
 {{<figure src="/images/Weekly-Notes-2023-w23/ASM2.jpeg" caption="Erotic work of art" >}}
 {{<figure src="/images/Weekly-Notes-2023-w23/ASM3.jpeg" caption="Terracota toys from Indus Valley civilization" >}}
@@ -42,7 +42,7 @@ There were also a set of sculptures belonging to the 11th-13th centuries found i
 {{<figure src="/images/Weekly-Notes-2023-w23/ASM6.jpeg" caption="IVC terracotta figurines" >}}
 {{<figure src="/images/Weekly-Notes-2023-w23/ASM7.jpeg" caption="Decorated piece of pottery" >}}
 
-{{< /gallery >}}
+{{< /galleryold >}}
 
 I took a bike taxi to Valley view, and watched the sunset. I took a walk along the road.
 
@@ -73,11 +73,11 @@ On Thursday, I mostly worked.
 
 On Friday, I, along with Srinidhi, attended the Archival Day at [NCBS](https://goo.gl/maps/cfoMbfu7SAipZgeQ6) organized by [Milli](https://milli.link). Beneathatree was one of the [participating institutes](https://milli.link/sessions2023/). I really enjoyed the hands-on workshop on Archival box making. I also worked for some time on the NCBS campus.
 
-{{< gallery caption-position="bottom"  >}}
+{{< galleryold caption-position="bottom"  >}}
 {{<figure src="/images/Weekly-Notes-2023-w23/ncbswork.jpeg" caption="Whole campus had lot of nice view, power plug points and free wifi." >}}
 {{<figure src="/images/Weekly-Notes-2023-w23/ncbs2.jpeg" caption="DIY Archival box making workshop" >}}
 
-{{< /gallery >}}
+{{< /galleryold >}}
 
 I felt at home seeing the archival setups, and the jugaad that the community has come up with (mainly because of lack of resource and funding?) because it resonates with my maker ethos.
 

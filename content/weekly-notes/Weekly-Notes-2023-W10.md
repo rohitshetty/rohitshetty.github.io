@@ -24,11 +24,11 @@ draft: false
 
 <!-- {{< youtube id="wNewh7Y2dlk" title="Fusion 360 design process" >}} -->
 
-{{< gallery caption-position="bottom" caption-effect="none" >}}
+{{< galleryold caption-position="bottom" caption-effect="none" >}}
 
 {{<figure src="/images/Weekly-Notes-2023-w10/beforefix.jpeg" caption="Before" >}}
 {{<figure src="/images/Weekly-Notes-2023-w10/afterfix.jpeg" caption="After" >}}
-{{< /gallery >}}
+{{< /galleryold >}}
 
 - I recently discovered that my blog's RSS feed was not displaying all of my content on RSS readers, due to Hugo's default settings only publishing the summary in the RSS feed description.
   Today I decided to fix that problem. It was quite simple, and now you should be able to read all of this inside your RSS reader directly.
@@ -65,9 +65,9 @@ draft: false
 
 - If you made it till here, you deserve some of the Orange cuteness.
 
-{{< gallery caption-position="bottom"  >}}
+{{< galleryold caption-position="bottom"  >}}
 {{<figure src="/images/Weekly-Notes-2023-w10/orange-code-review.jpeg" caption="Code reviewer were not impressed" >}}
 {{<figure src="/images/Weekly-Notes-2023-w10/orange-garden.jpeg" caption="Orange, and Tea" >}}
 {{<figure src="/images/Weekly-Notes-2023-w10/orange-plant.jpeg" caption="What plant is this?" >}}
 
-{{< /gallery >}}
+{{< /galleryold >}}

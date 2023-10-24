@@ -1,1 +1,4 @@
 .vscode
+resources/_gen
+content/**/*.jpg
+public/
