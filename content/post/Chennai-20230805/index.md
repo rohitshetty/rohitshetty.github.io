@@ -6,4 +6,4 @@ draft: false
 
 First Film roll I ever shot
 
-{{<gallery match="images/*" sortOrder="desc" rowHeight="180" margins="2" showExif=true scale=100% previewType="og" thumbnailHoverEffect="enlarge" loadJQuery=true >}}
+{{<gallery match="images/*" sortOrder="desc" rowHeight="180" margins="2" showExif=true scale=100% previewType="blur" thumbnailHoverEffect="enlarge" loadJQuery=true thumbnailResizeOptions="600x600 q90 Lanczos" >}}
