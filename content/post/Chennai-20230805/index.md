@@ -1,7 +1,7 @@
 ---
 title: "Chennai, 2023.08.05"
 date: 2023-10-18T15:47:22+05:30
-draft: false
+draft: true
 ---
 
 First Film roll I ever shot
