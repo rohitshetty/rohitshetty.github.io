@@ -1,7 +1,7 @@
 baseURL = 'https://blog.kernelanxiety.dev'
 languageCode = 'en-us'
 title = '$ls /home/rohit/'
-timeout = 60000 # This is required for larger galleries to be build (60 sec)
+timeout = 600000 # This is required for larger galleries to be build (60 sec)
 theme = [ 'hugo-shortcode-gallery','hugo-journal']
 [author]
   name = "Rohit"
