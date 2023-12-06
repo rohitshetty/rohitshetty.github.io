@@ -1,8 +1,8 @@
 baseURL = 'https://blog.kernelanxiety.dev'
 languageCode = 'en-us'
 title = '$ls /home/rohit/'
-
-theme = 'hugo-journal'
+timeout = 60000 # This is required for larger galleries to be build (60 sec)
+theme = [ 'hugo-shortcode-gallery','hugo-journal']
 [author]
   name = "Rohit"
 [params]
@@ -17,3 +17,7 @@ theme = 'hugo-journal'
   jobTitle = "Maker"
   company = "Beneath A Tree Learning"
   companyUrl = "https://bat.school/"
+
+[module]
+[[module.imports]]
+  path="hugo-shortcode-gallery"

@@ -71,10 +71,10 @@ to fix my sleep cycle and irregular food habits.
 
 - If you made it till here, you deserve some of the Orange cuteness.
 
-{{< gallery caption-position="bottom"  >}}
+{{< galleryold caption-position="bottom"  >}}
 {{<figure src="/images/Weekly-Notes-2023-w12/orange1.jpeg" caption="Tfeeth" >}}
 {{<figure src="/images/Weekly-Notes-2023-w12/orange2.jpeg" caption="Lazy ass" >}}
 {{<figure src="/images/Weekly-Notes-2023-w12/orange3.jpeg" caption="Can you resist this cuteness" >}}
 {{<figure src="/images/Weekly-Notes-2023-w12/orange4.jpeg" caption="World is my oyster, this box is mine now" >}}
 
-{{< /gallery >}}
+{{< /galleryold >}}

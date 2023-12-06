@@ -31,9 +31,9 @@ draft: false
 
 - If you made it till here, you deserve some of the Orange cuteness.
 
-{{< gallery caption-position="bottom"  >}}
+{{< galleryold caption-position="bottom"  >}}
 {{<figure src="/images/Weekly-Notes-2023-w11/orange1.jpeg" caption="Sleepy kitty" >}}
 {{<figure src="/images/Weekly-Notes-2023-w11/orange2.jpeg" caption="Pur pur pur" >}}
 {{<figure src="/images/Weekly-Notes-2023-w11/orange-meme.jpeg" caption="We make memes too" >}}
 
-{{< /gallery >}}
+{{< /galleryold >}}

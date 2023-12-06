@@ -30,8 +30,6 @@ jobs:
           hugo-version: "${{ steps.hugo-version.outputs.HUGO_VERSION }}"
           extended: true
 
-      - name: Build
-        run: hugo --minify
 
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v1
@@ -43,11 +41,20 @@ jobs:
       - name: get caller identity2
         run: |
           aws sts get-caller-identity
-  
+
+
+      - name: Download_content
+        run: make download_images
+      - name: Build 
+        run: make build_hugo
+
+
       - name: Deploy to S3
         run: |
           aws s3 sync ./public s3://blog-kernelanxiety --delete
-
+      - name: Invalidate Cloudfront 
+        run: | 
+          aws cloudfront create-invalidation --distribution-id ${{ secrets.DISTRIBUTION_ID }} --paths "/*"
 
       # - name: Deploy
       #   uses: peaceiris/actions-gh-pages@v3

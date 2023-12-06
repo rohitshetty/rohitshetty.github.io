@@ -12,9 +12,9 @@ I follow [Thej's weekly notes](https://thejeshgn.com/tag/weekly-notes/) and want
 
 - Orange, a stray pregnant cat chose our office to lay her kittens. Since then she has been with us.
 
-{{< gallery caption-position="bottom" caption-effect="none" >}}
+{{< galleryold caption-position="bottom" caption-effect="none" >}}
 {{<figure src="/images/Weekly-Notes-Week-09-2023/orange-fangs.jpeg" caption="Orange and her Fangs" >}}
-{{< /gallery >}}
+{{< /galleryold >}}
 
 ## January
 

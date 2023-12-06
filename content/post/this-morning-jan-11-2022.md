@@ -12,14 +12,14 @@ I spent some time with Shashank and Bruce in our office garden, grinding my coff
 
 It was a calm Tuesday afternoon, disturbed aperiodically by the traffic on the 100ft road. Some birds often decide to chime in their thoughts too.
 
-{{< gallery caption-position="bottom" caption-effect="none" >}}
+{{< galleryold caption-position="bottom" caption-effect="none" >}}
 {{<figure src="/images/this-morning-jan-11-2022/bruce-and-his-toy.jpeg" caption="Bruce and his toy" >}}
 {{<figure src="/images/this-morning-jan-11-2022/bruce-shashank.jpeg" caption="Bruce and Shashank" >}}
 {{<figure src="/images/this-morning-jan-11-2022/bruce-corn-cob.gif" caption="Bruce playing with a corncob" >}}
 {{<figure src="/images/this-morning-jan-11-2022/bruce-eyes-shiny.gif" caption="Look at 'em shiny eyes" >}}
 {{<figure src="/images/this-morning-jan-11-2022/watchya-eating.gif" caption="Watchya eating? Okay I don't care" >}}
 
-{{< /gallery >}}
+{{< /galleryold >}}
 
 Bruce was happy exploring the garden and zooming around.
 
