@@ -141,6 +141,7 @@ async function findImagesYmlFiles(dir) {
         }
       } catch (error) {
         console.error(`Error reading or parsing ${filePath}: ${error.message}`);
+        return Promise.reject(error);
       }
     }
   }
