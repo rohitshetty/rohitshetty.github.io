@@ -43,8 +43,10 @@ jobs:
           aws sts get-caller-identity
 
 
-      - name: Build
-        run: make download_images && make build_hugo
+      - name: Download_content
+        run: make download_images
+      - name: Build 
+        run: make build_hugo
 
 
       - name: Deploy to S3

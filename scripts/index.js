@@ -11,6 +11,7 @@ program
     "-d, --directory <directory>",
     "Specify the starting directory for the search"
   )
+  .option("-p, --profile <profile>", "Specify the AWS profile for credentials")
   .option(
     "--development",
     "Run in development mode (skip downloading if files exist)"
@@ -18,12 +19,22 @@ program
   .parse(process.argv);
 
 const options = program.opts();
-const awsProfile = process.env.AWS_PROFILE || "default"; // Use the specified AWS profile or 'default' by default
-console.log("awsProfile, ", options);
-AWS.config.credentials = new AWS.SharedIniFileCredentials({
-  profile: awsProfile,
-});
-AWS.config.update({ region: "ap-south-1" }); // Replace with your desired AWS region
+const awsProfile = options.AWS_PROFILE; // Use the specified AWS profile or 'default' by default
+if (awsProfile) {
+  AWS.config.credentials = new AWS.SharedIniFileCredentials({
+    profile: awsProfile,
+  });
+} else {
+  const awsAccessKeyId = process.env.AWS_ACCESS_KEY_ID;
+  const awsSecretAccessKey = process.env.AWS_SECRET_ACCESS_KEY;
+
+  AWS.config.update({
+    accessKeyId: awsAccessKeyId,
+    secretAccessKey: awsSecretAccessKey,
+  });
+}
+
+AWS.config.update({ region: process.env.AWS_REGION || "ap-south-1" }); // Replace with your desired AWS region
 
 const s3 = new AWS.S3();
 
