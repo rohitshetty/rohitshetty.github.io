@@ -69,6 +69,7 @@ async function downloadFolder(bucketName, folderPath, destinationPath) {
     }
   } catch (error) {
     console.error(`Error downloading folder: ${error.message}`);
+    return Promise.reject(`Error downloading folder: ${error.message}`);
   }
 }
 
@@ -97,6 +98,7 @@ async function downloadFiles(filePaths, destinationPath) {
       console.log(`Downloaded: ${fileDestination}`);
     } catch (error) {
       console.error(`Error downloading file ${filePath}: ${error.message}`);
+      return Promise.reject(`Error downloading folder: ${error.message}`);
     }
   }
 }
