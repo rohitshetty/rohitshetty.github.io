@@ -1,0 +1,155 @@
+Chennai_1:
+  files:
+    - s3://rohit-images/web/2023-08-05_F10_K400_D76/ROHIT_K400_D76_16.jpg
+    - s3://rohit-images/web/2023-08-05_F10_K400_D76/20230805_K400_D76_03.jpg
+    - s3://rohit-images/web/2023-08-05_F10_K400_D76/20230805_K400_D76_04.jpg
+    - s3://rohit-images/web/2023-08-05_F10_K400_D76/ROHIT_K400_D76_08.jpg
+    - s3://rohit-images/web/2023-08-05_F10_K400_D76/ROHIT_K400_D76_10.jpg
+    - s3://rohit-images/web/2023-08-05_F10_K400_D76/ROHIT_K400_D76_12.jpg
+Chennai_2: 
+  files: 
+    - s3://rohit-images/web/2023-08-06_F10_K400_D76/20230806_K400_D76_01.jpg
+    - s3://rohit-images/web/2023-08-06_F10_K400_D76/20230806_K400_D76_07.jpg
+    - s3://rohit-images/web/2023-08-06_F10_K400_D76/20230806_K400_D76_08.jpg
+    - s3://rohit-images/web/2023-08-06_F10_K400_D76/20230806_K400_D76_09.jpg
+    - s3://rohit-images/web/2023-08-06_F10_K400_D76/20230806_K400_D76_11.jpg
+    - s3://rohit-images/web/2023-08-06_F10_K400_D76/20230806_K400_D76_15.jpg
+
+hellmuth:
+  files: 
+    - s3://rohit-images/web/2023-09-16_AGFPAAPX100_D76/2023-09-16_AGFPAAPX100_D76_IMG_4897.jpg
+    - s3://rohit-images/web/2023-09-16_AGFPAAPX100_D76/2023-09-16_AGFPAAPX100_D76_IMG_4924.jpg
+    - s3://rohit-images/web/2023-09-16_AGFPAAPX100_D76/2023-09-16_AGFPAAPX100_D76_IMG_4927.jpg
+    - s3://rohit-images/web/2023-09-16_AGFPAAPX100_D76/2023-09-16_AGFPAAPX100_D76_IMG_4939.jpg
+    - s3://rohit-images/web/2023-09-16_AGFPAAPX100_D76/2023-09-16_AGFPAAPX100_D76_IMG_4943.jpg
+    - s3://rohit-images/web/2023-09-16_AGFPAAPX100_D76/2023-09-16_AGFPAAPX100_D76_IMG_4952.jpg
+test_run:
+  files:
+    - s3://rohit-images/web/2023-09-27_P30T_K400_D76/2023-09-27_K400_D76_09_01.jpg
+    - s3://rohit-images/web/2023-09-27_P30T_K400_D76/2023-09-27_K400_D76_17.jpg
+    - s3://rohit-images/web/2023-09-27_P30T_K400_D76/2023-09-27_K400_D76_18.jpg
+    - s3://rohit-images/web/2023-09-27_P30T_K400_D76/2023-09-27_K400_D76_25.jpg
+    - s3://rohit-images/web/2023-09-27_P30T_K400_D76/2023-09-27_K400_D76_01.jpg
+
+parodinal:
+  files:
+    - s3://rohit-images/web/2023-10-02_P30T_K400_Parodinal/2023-10-02_K400_Parodinal_IMG_4992.jpg
+    - s3://rohit-images/web/2023-10-02_P30T_K400_Parodinal/2023-10-02_K400_Parodinal_IMG_5006.jpg
+    - s3://rohit-images/web/2023-10-02_P30T_K400_Parodinal/2023-10-02_K400_Parodinal_IMG_5007.jpg
+    - s3://rohit-images/web/2023-10-02_P30T_K400_Parodinal/2023-10-02_K400_Parodinal_IMG_5019.jpg
+    - s3://rohit-images/web/2023-10-02_P30T_K400_Parodinal/2023-10-02_K400_Parodinal_IMG_5021.jpg
+    - s3://rohit-images/web/2023-10-02_P30T_K400_Parodinal/2023-10-02_K400_Parodinal_IMG_5029.jpg
+    - s3://rohit-images/web/2023-10-02_P30T_K400_Parodinal/2023-10-02_K400_Parodinal_IMG_5033.jpg
+
+    - s3://rohit-images/web/2023-10-14_P30T_K400_Parodinal/2023-10-14_P30T_K400_Parodinal_150_IMG_6656.jpg
+    - s3://rohit-images/web/2023-10-14_P30T_K400_Parodinal/2023-10-14_P30T_K400_Parodinal_150_IMG_6671.jpg
+    - s3://rohit-images/web/2023-10-14_P30T_K400_Parodinal/2023-10-14_P30T_K400_Parodinal_150_IMG_6715.jpg
+    - s3://rohit-images/web/2023-10-14_P30T_K400_Parodinal/2023-10-14_P30T_K400_Parodinal_150_IMG_6717.jpg
+    - s3://rohit-images/web/2023-10-14_P30T_K400_Parodinal/2023-10-14_P30T_K400_Parodinal_150_IMG_6720.jpg
+
+    - s3://rohit-images/web/2023-10-15_P30T_K400_Parodinal/2023-10-15_P30T_K400_Parodinal_125_IMG_6731.jpg
+    - s3://rohit-images/web/2023-10-15_P30T_K400_Parodinal/2023-10-15_P30T_K400_Parodinal_125_IMG_6733.jpg
+    - s3://rohit-images/web/2023-10-15_P30T_K400_Parodinal/2023-10-15_P30T_K400_Parodinal_125_IMG_6736.jpg
+fomapan:
+  files:
+    - s3://rohit-images/web/2023-10-21_P30T_Fomapan400_Parodinal/2023-10-21_P30T_Foma400_Parodinal_IMG_6786.jpg
+    - s3://rohit-images/web/2023-10-21_P30T_Fomapan400_Parodinal/2023-10-21_P30T_Foma400_Parodinal_IMG_6802.jpg
+    - s3://rohit-images/web/2023-10-21_P30T_Fomapan400_Parodinal/2023-10-21_P30T_Foma400_Parodinal_IMG_6804.jpg
+    - s3://rohit-images/web/2023-10-21_P30T_Fomapan400_Parodinal/2023-10-21_P30T_Foma400_Parodinal_IMG_6806.jpg
+    - s3://rohit-images/web/2023-10-21_P30T_Fomapan400_Parodinal/2023-10-21_P30T_Foma400_Parodinal_IMG_6813.jpg
+    - s3://rohit-images/web/2023-10-21_P30T_Fomapan400_Parodinal/2023-10-21_P30T_Foma400_Parodinal_IMG_6841.jpg
+    - s3://rohit-images/web/2023-10-21_P30T_Fomapan400_Parodinal/2023-10-21_P30T_Foma400_Parodinal_IMG_6844.jpg
+    - s3://rohit-images/web/2023-10-21_P30T_Fomapan400_Parodinal/2023-10-21_P30T_Foma400_Parodinal_IMG_6848.jpg
+    - s3://rohit-images/web/2023-10-21_P30T_Fomapan400_Parodinal/2023-10-21_P30T_Foma400_Parodinal_IMG_6853.jpg
+    - s3://rohit-images/web/2023-10-21_P30T_Fomapan400_Parodinal/2023-10-21_P30T_Foma400_Parodinal_IMG_6855.jpg
+    - s3://rohit-images/web/2023-10-21_P30T_Fomapan400_Parodinal/2023-10-21_P30T_Foma400_Parodinal_IMG_6860.jpg
+    - s3://rohit-images/web/2023-10-21_P30T_Fomapan400_Parodinal/2023-10-21_P30T_Foma400_Parodinal_IMG_6868.jpg
+    - s3://rohit-images/web/2023-10-21_P30T_Fomapan400_Parodinal/2023-10-21_P30T_Foma400_Parodinal_IMG_6872.jpg
+
+Kentmere:
+  files:
+    - s3://rohit-images/web/2023-10-27_P30T_K400_Parodinal/IMG_0006.jpg
+    - s3://rohit-images/web/2023-10-27_P30T_K400_Parodinal/IMG_0012.jpg
+    - s3://rohit-images/web/2023-10-27_P30T_K400_Parodinal/IMG_0015.jpg
+    - s3://rohit-images/web/2023-10-27_P30T_K400_Parodinal/IMG_0019.jpg
+    - s3://rohit-images/web/2023-10-27_P30T_K400_Parodinal/IMG_0029.jpg
+    - s3://rohit-images/web/2023-10-27_P30T_K400_Parodinal/IMG_0036.jpg
+    - s3://rohit-images/web/2023-10-27_P30T_K400_Parodinal/IMG_0037.jpg
+    - s3://rohit-images/web/2023-10-27_P30T_K400_Parodinal/IMG_0047.jpg
+
+    - s3://rohit-images/web/2023-11-05_P30T_K400_Parodinal/IMG_0048.jpg
+    - s3://rohit-images/web/2023-11-05_P30T_K400_Parodinal/IMG_0062.jpg
+    - s3://rohit-images/web/2023-11-05_P30T_K400_Parodinal/IMG_0071.jpg
+    - s3://rohit-images/web/2023-11-05_P30T_K400_Parodinal/IMG_0075.jpg
+    - s3://rohit-images/web/2023-11-05_P30T_K400_Parodinal/IMG_0076.jpg
+    - s3://rohit-images/web/2023-11-05_P30T_K400_Parodinal/IMG_0081.jpg
+    - s3://rohit-images/web/2023-11-05_P30T_K400_Parodinal/IMG_0082.jpg
+    - s3://rohit-images/web/2023-11-05_P30T_K400_Parodinal/IMG_0091.jpg
+    - s3://rohit-images/web/2023-11-05_P30T_K400_Parodinal/IMG_0092.jpg
+    - s3://rohit-images/web/2023-11-05_P30T_K400_Parodinal/IMG_0094.jpg
+    - s3://rohit-images/web/2023-11-05_P30T_K400_Parodinal/IMG_0097.jpg
+    - s3://rohit-images/web/2023-11-05_P30T_K400_Parodinal/IMG_0100.jpg
+    - s3://rohit-images/web/2023-11-05_P30T_K400_Parodinal/IMG_0110.jpg
+    - s3://rohit-images/web/2023-11-05_P30T_K400_Parodinal/IMG_0113.jpg
+belgaum:
+  files:
+    - s3://rohit-images/web/2023-11-19_P30T_K400_Parodinal/2023-11-19_P30T_K400_Parodinal_150_IMG_5675.jpg
+    - s3://rohit-images/web/2023-11-19_P30T_K400_Parodinal/2023-11-19_P30T_K400_Parodinal_150_IMG_5680.jpg
+    - s3://rohit-images/web/2023-11-19_P30T_K400_Parodinal/2023-11-19_P30T_K400_Parodinal_150_IMG_5686.jpg
+    - s3://rohit-images/web/2023-11-19_P30T_K400_Parodinal/2023-11-19_P30T_K400_Parodinal_150_IMG_5688.jpg
+    - s3://rohit-images/web/2023-11-19_P30T_K400_Parodinal/2023-11-19_P30T_K400_Parodinal_150_IMG_5689.jpg
+    - s3://rohit-images/web/2023-11-19_P30T_K400_Parodinal/2023-11-19_P30T_K400_Parodinal_150_IMG_5690.jpg
+    - s3://rohit-images/web/2023-11-19_P30T_K400_Parodinal/2023-11-19_P30T_K400_Parodinal_150_IMG_5691.jpg
+    - s3://rohit-images/web/2023-11-19_P30T_K400_Parodinal/2023-11-19_P30T_K400_Parodinal_150_IMG_5692.jpg
+    - s3://rohit-images/web/2023-11-19_P30T_K400_Parodinal/2023-11-19_P30T_K400_Parodinal_150_IMG_5693.jpg
+    - s3://rohit-images/web/2023-11-19_P30T_K400_Parodinal/2023-11-19_P30T_K400_Parodinal_150_IMG_5699.jpg
+pavagada:
+  files:
+    - s3://rohit-images/web/2023-11-19_P30T_K400_Parodinal/2023-11-19_P30T_K400_Parodinal_150_IMG_5701.jpg
+    - s3://rohit-images/web/2023-11-19_P30T_K400_Parodinal/2023-11-19_P30T_K400_Parodinal_150_IMG_5705.jpg
+    - s3://rohit-images/web/2023-11-19_P30T_K400_Parodinal/2023-11-19_P30T_K400_Parodinal_150_IMG_5706.jpg
+    - s3://rohit-images/web/2023-11-19_P30T_K400_Parodinal/2023-11-19_P30T_K400_Parodinal_150_IMG_5707.jpg
+    - s3://rohit-images/web/2023-11-19_P30T_K400_Parodinal/2023-11-19_P30T_K400_Parodinal_150_IMG_5711.jpg
+    - s3://rohit-images/web/2023-11-19_P30T_K400_Parodinal/2023-11-19_P30T_K400_Parodinal_150_IMG_5726.jpg
+    - s3://rohit-images/web/2023-11-19_P30T_K400_Parodinal/2023-11-19_P30T_K400_Parodinal_150_IMG_5727.jpg
+    - s3://rohit-images/web/2023-11-19_P30T_K400_Parodinal/2023-11-19_P30T_K400_Parodinal_150_IMG_5729.jpg
+foggy_pavagada:
+  files:
+    - s3://rohit-images/web/2023-11-19_P30T_K400_Parodinal/2023-11-19_P30T_K400_Parodinal_150_IMG_5716.jpg
+    - s3://rohit-images/web/2023-11-19_P30T_K400_Parodinal/2023-11-19_P30T_K400_Parodinal_150_IMG_5720.jpg
+    - s3://rohit-images/web/2023-11-19_P30T_K400_Parodinal/2023-11-19_P30T_K400_Parodinal_150_IMG_5725.jpg
+
+w46:
+  files:
+    - s3://rohit-images/web/2023-11-26_P30T_K400_PaRodinal_2023W46/IMG_5801.jpg
+    - s3://rohit-images/web/2023-11-26_P30T_K400_PaRodinal_2023W46/IMG_5807.jpg
+    - s3://rohit-images/web/2023-11-26_P30T_K400_PaRodinal_2023W46/IMG_5815.jpg
+    - s3://rohit-images/web/2023-11-26_P30T_K400_PaRodinal_2023W46/IMG_5817.jpg
+    - s3://rohit-images/web/2023-11-26_P30T_K400_PaRodinal_2023W46/IMG_5821.jpg
+    - s3://rohit-images/web/2023-11-26_P30T_K400_PaRodinal_2023W46/IMG_5823.jpg
+    - s3://rohit-images/web/2023-11-26_P30T_K400_PaRodinal_2023W46/IMG_5825.jpg
+    - s3://rohit-images/web/2023-11-26_P30T_K400_PaRodinal_2023W46/IMG_5826.jpg
+    - s3://rohit-images/web/2023-11-26_P30T_K400_PaRodinal_2023W46/IMG_5831.jpg
+    - s3://rohit-images/web/2023-11-26_P30T_K400_PaRodinal_2023W46/IMG_5834.jpg
+    - s3://rohit-images/web/2023-11-26_P30T_K400_PaRodinal_2023W46/IMG_5838.jpg
+    - s3://rohit-images/web/2023-11-26_P30T_K400_PaRodinal_2023W46/IMG_5840.jpg
+    - s3://rohit-images/web/2023-11-26_P30T_K400_PaRodinal_2023W46/IMG_5841.jpg
+    - s3://rohit-images/web/2023-11-26_P30T_K400_PaRodinal_2023W46/IMG_5850.jpg
+
+w47:
+  files:
+    - s3://rohit-images/web/2023-12-02_P30T_K400_D76_2023W47/2023-12-02_P30T_K400_D76_2023W47_IMG_5887.jpg
+    - s3://rohit-images/web/2023-12-02_P30T_K400_D76_2023W47/2023-12-02_P30T_K400_D76_2023W47_IMG_5888.jpg
+    - s3://rohit-images/web/2023-12-02_P30T_K400_D76_2023W47/2023-12-02_P30T_K400_D76_2023W47_IMG_5890.jpg
+    - s3://rohit-images/web/2023-12-02_P30T_K400_D76_2023W47/2023-12-02_P30T_K400_D76_2023W47_IMG_5897.jpg
+    - s3://rohit-images/web/2023-12-02_P30T_K400_D76_2023W47/2023-12-02_P30T_K400_D76_2023W47_IMG_5901.jpg
+    - s3://rohit-images/web/2023-12-02_P30T_K400_D76_2023W47/2023-12-02_P30T_K400_D76_2023W47_IMG_5898.jpg
+    - s3://rohit-images/web/2023-12-02_P30T_K400_D76_2023W47/2023-12-02_P30T_K400_D76_2023W47_IMG_5907.jpg
+    - s3://rohit-images/web/2023-12-02_P30T_K400_D76_2023W47/2023-12-02_P30T_K400_D76_2023W47_IMG_5908.jpg
+    - s3://rohit-images/web/2023-12-02_P30T_K400_D76_2023W47/2023-12-02_P30T_K400_D76_2023W47_IMG_5913.jpg
+    - s3://rohit-images/web/2023-12-02_P30T_K400_D76_2023W47/2023-12-02_P30T_K400_D76_2023W47_IMG_5914.jpg
+    - s3://rohit-images/web/2023-12-02_P30T_K400_D76_2023W47/2023-12-02_P30T_K400_D76_2023W47_IMG_5915.jpg
+    - s3://rohit-images/web/2023-12-02_P30T_K400_D76_2023W47/2023-12-02_P30T_K400_D76_2023W47_IMG_5916.jpg
+    - s3://rohit-images/web/2023-12-02_P30T_K400_D76_2023W47/2023-12-02_P30T_K400_D76_2023W47_IMG_5919.jpg
+    - s3://rohit-images/web/2023-12-02_P30T_K400_D76_2023W47/2023-12-02_P30T_K400_D76_2023W47_IMG_5921.jpg
+    - s3://rohit-images/web/2023-12-02_P30T_K400_D76_2023W47/2023-12-02_P30T_K400_D76_2023W47_IMG_5922.jpg

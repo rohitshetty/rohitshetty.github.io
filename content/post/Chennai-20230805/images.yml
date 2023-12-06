@@ -1,6 +1,3 @@
-Chennai_1:
-  folder: s3://rohit-images/web/2023-08-05_F10_K400_D76/
-
 Chennai_2:
   files: 
     - s3://rohit-images/web/2023-08-06_F10_K400_D76/20230806_K400_D76_01.jpg

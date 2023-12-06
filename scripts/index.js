@@ -19,7 +19,7 @@ program
   .parse(process.argv);
 
 const options = program.opts();
-const awsProfile = options.AWS_PROFILE; // Use the specified AWS profile or 'default' by default
+const awsProfile = options.profile; // Use the specified AWS profile or 'default' by default
 if (awsProfile) {
   AWS.config.credentials = new AWS.SharedIniFileCredentials({
     profile: awsProfile,
