@@ -147,4 +147,8 @@ async function findImagesYmlFiles(dir) {
 }
 
 const startingDirectory = options.directory || process.cwd();
-findImagesYmlFiles(startingDirectory).then(() => console.log("Done!"));
+findImagesYmlFiles(startingDirectory)
+  .then(() => console.log("Done!"))
+  .catch((e) => {
+    throw new Error(e);
+  });
