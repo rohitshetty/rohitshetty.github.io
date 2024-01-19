@@ -6,7 +6,7 @@ draft: false
 
 Last week I developed the second roll of Eastman 5222.
 
-This time I developed it at box speed, so no more fried [look](https://silverhalide.kernelanxiety.dev/#2023w51w52).
+This time I shot and developed it at box speed, so less contrasty than the last [time](https://silverhalide.kernelanxiety.dev/#2023w51w52).
 
 I Developed it in D-96 for 5 minutes and 50 seconds, 10% lesser than the recommended 6.5 minutes.
 
