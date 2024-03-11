@@ -42,6 +42,18 @@ I also have been enjoying Krish Ashok's content on YouTube on cooking, and I als
 
 I have been speaking with my mother more than usual and pestering her for recipes and measurements.
 
+I followed [Haripriya's](https://www.haripriya.org/) blog feed quite some time back because of a post from Thejesh and was enjoying her weekly reporting on the little guest - the neighborhood squirrel.
+
+I was surprised to read her mention of my blog in one of her [weekly notes](https://www.haripriya.org/post/weekly-notes-07-2024).
+
+I thought, honestly, I was shouting into the abyss with these updates (Earlier I used to do that on Twitter (I refuse to call it X. Maybe I'll call it Yucksss)) - but good to know that there is reception by a sentient being and not just the search engine bots :)
+
+To quote from that blog post by Haripriya -
+
+_During breaks, I also sat through to read many blogs. I find joy in these unexpected connections especially sneaking through their weekly notes. It's like a chat with an unseen friend_
+
+Hard relate! I follow many weekly note-takers on my RSS feed reader (If you don't use an RSS feed reader, highly recommend getting one - I use [Miniflux](https://miniflux.app/) and self-host it), and each week I look forward to updates from folks I have never met and many of whom I'll probably never meet.
+
 This week, I started the **Taraqqi**, a Weekly progress-level Urdu course designed and taught by [Akshita](https://www.instagram.com/akshita.works). \
 Last year, I completed her _Shuruaat-e-Urdu_, a Beginners' Urdu Literacy course. I highly recommend it if you want to learn how to read and write Perso-Arabic script in a few weeks and improve your Urdu Talaffuz, pronunciation.
 
