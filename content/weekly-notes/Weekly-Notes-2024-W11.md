@@ -39,13 +39,13 @@ On the work front, yet another non-productive week. I spent most of the week sit
 Saturday, I attended my second Urdu class of the course. We revised a few of the basic concepts. \
 We read this poem in Perso-Arabic script in the class.
 
-{{<urdu>}}
+{{<urdu_nastaliq_regular>}}
 اے ذوقؔ دیکھ دختر رز کو نہ منہ لگا
-{{</urdu>}}
+{{</urdu_nastaliq_regular>}}
 
-{{<urdu>}}
+{{<urdu_nastaliq_regular>}}
 چھٹتی نہیں ہے منہ سے یہ کافر لگی ہوئی
-{{</urdu>}}
+{{</urdu_nastaliq_regular>}}
 
 [Ai Zauq, Dukhtar e raz ko na munh laga](https://www.rekhta.org/couplets/ai-zauq-dekh-dukhtar-e-raz-ko-na-munh-lagaa-sheikh-ibrahim-zauq-couplets).
 
@@ -72,6 +72,6 @@ Later, my colleague and flatmate Girish joined me. We had some Kabab, and tea, a
 
 5. I have a love-hate relationship with Instagram. I post my photos there and keep in touch with friends and follow other interesting people. But, I also end up spending hours on Reels every day. Their explore page is toxic. I wish Instagram gave me an option to switch off features I didn't like, a user-facing Feature Flag. I know, Instagram has no incentive to do that; rather, they are incentivized to do the exact opposite. But in an ideal world, this would be good to have. On that note, I have a Pixelfed account where I post my images to [@rohitshetty@pixelfed.social](https://pixelfed.social/rohitshetty). If you are in the fediverse, find me there.
 
-6. I installed [Noto Nastaliq Font](https://fonts.google.com/noto/specimen/Noto+Nastaliq+Urdu) to render Urdu in Nastaliq style.
+6. I installed [Noto Nastaliq Font](https://fonts.google.com/noto/specimen/Noto+Nastaliq+Urdu) to render Urdu in Nastaliq style in hugo here. It was straightforward, but I modified my theme, this created few issues. I solved it by cloning the theme, and then pointing the git submodule to that instead.
 
 Till next week -

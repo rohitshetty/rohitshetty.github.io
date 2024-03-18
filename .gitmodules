@@ -1,3 +1,6 @@
 [submodule "hugo-shortcode-gallery"]
 	path = themes/hugo-shortcode-gallery
 	url = git@github.com:rohitshetty/hugo-shortcode-gallery.git
+[submodule "themes/hugo-journal"]
+	path = themes/hugo-journal
+	url = git@github.com:rohitshetty/hugo-journal.git
