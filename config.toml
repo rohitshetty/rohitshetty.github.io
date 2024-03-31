@@ -8,7 +8,7 @@ theme = [ 'hugo-shortcode-gallery','hugo-journal']
 [params]
   description = "Journal about projects and ideas, mainly for myself"
   githubUsername = "rohitshetty"
-  tagline = "Journal about work, not work, projects, coffee and everything else"
+  tagline = "Journal about work, not work, and whatever rabbit hole I'm currently sucked into"
 [params.work]
   jobTitle = "Developer"
   company = "Beneath A Tree Consultancy"

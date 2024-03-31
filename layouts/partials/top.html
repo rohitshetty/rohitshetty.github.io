@@ -41,7 +41,13 @@
     {{ if .IsHome -}}
     <header class="site-header">
       <h1>{{ .Site.Title }}</h1>
-      <p>{{ .Site.Params.tagline }}</p>
+      <p >{{ .Site.Params.tagline }}</p>
+      <nav class="site-wide-nav">
+        <!-- <a href="/about">About</a> -->
+        <a href="/weekly-notes">Weekly Notes </a>
+        <a href="/post">Posts</a>
+        <a href="/images_i_made/">Images I made</a>
+      </nav>
     </header>
     {{- else -}}
     <nav class="site-nav">
