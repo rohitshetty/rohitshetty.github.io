@@ -6,7 +6,7 @@ draft: false
 
 I missed updates for 2024W14 and 2024W15. I have been busy and hardly had any energy or time due to being busy.
 
-We were in the process of moving our office from Domlur to Koramangala. The first phase of that was completed this week, with all our software team moving to the new office and starting to work from here. I have been on the ground for the last two weeks along with some of my colleagues and cofounders working to make the office ready for moving in while also balancing work on my client projects. My colleagues have been on ground for longer, since months, and have been doing all the heavy weight lifting. I am eternally thankful to be part of this team.
+We were in the process of moving our office from Domlur to Koramangala. The first phase of that was completed this week, with all our software team moving to the new office and starting to work from here. I have been on the ground for the last two weeks along with some of my colleagues and cofounders working to make the office ready for moving in while also balancing work on my client projects. My colleagues have been on ground for longer, since months, and have been doing all the heavy lifting. I am eternally thankful to be part of this team.
 
 This new office is an old bungalow that has been used as an office for almost a decade by one of our earlier clients. This new building has a character of its own, but also comes with hectic work we had to do to make it work for us. Next, we still have our Makerspace, Archives, and Library to be moved.
 I am excited about this new space for what it has to offer. I specifically enjoy our outdoor space, where I take my evening break, brew my coffee, and sip it in peace amongst greenness and the chirping birds.
