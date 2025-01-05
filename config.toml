@@ -1,3 +1,5 @@
+ignoreLogs = ['warning-goldmark-raw-html']
+
 baseURL = 'https://blog.kernelanxiety.dev'
 languageCode = 'en-us'
 title = '$ls /home/rohit/'
@@ -21,3 +23,4 @@ theme = [ 'hugo-shortcode-gallery','hugo-journal']
 [module]
 [[module.imports]]
   path="hugo-shortcode-gallery"
+
