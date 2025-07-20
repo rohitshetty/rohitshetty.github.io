@@ -1,5 +1,6 @@
 .vscode
 resources/_gen
 content/**/*.jpg
+content/**/*.png
 scripts/node_modules/
 public/
