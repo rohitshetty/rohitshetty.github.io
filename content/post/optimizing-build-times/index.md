@@ -1,6 +1,6 @@
 ---
 title: "Speeding Up Hugo Builds with GitHub Actions Caching"
-date: 2025-07-20T12:29:44+05:30
+date: 2025-07-20T22:03:44+05:30
 draft: false
 ---
 
