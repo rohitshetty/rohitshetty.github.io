@@ -110,3 +110,10 @@ Expectations:
 
 1. First build should take longer, and redownload everything
 2. Second build onwards, only new/edited files should be downloaded, including if `images.yml` is updated
+
+Edit:
+{{<figure src="/post/optimizing-build-times/Optimizing-Build-Times/ksnip_20250720-212428.png">}}
+
+Running the job again worked, and the runtime reduced - first run downloaded all the files, second one reused from the cache.
+
+But we are still yet to validate the 2 Expectation - rerunning the job again to confirm
