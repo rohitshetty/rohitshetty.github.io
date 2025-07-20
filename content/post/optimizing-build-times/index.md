@@ -49,4 +49,19 @@ However, as a temporary stopgap solution, I'm now testing adding a cache to my G
 
 My script already includes a flag that skips downloading files if they already exist. This feature, combined with the caching above, should hopefully make builds significantly faster.
 
+Test 1:
 This post serves as a test to see if this approach will work effectively.
+Expectations:
+
+1. With no new `images.yml`, build should be fast.
+
+Edit:
+Looks like it worked.
+{{<figure src="/post/optimizing-build-times/Optimizing-Build-Times/ksnip_20250720-125230.png">}}
+
+Test 2:
+Now, checking if adding a new `images.yml` will work.
+Expectations:
+
+1. All previously downloaded files should not be re downloaded
+2. New files from new `images.yml` file should be downloaded.

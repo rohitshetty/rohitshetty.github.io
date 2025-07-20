@@ -9,6 +9,6 @@ build_scripts:
 	cd scripts && npm install
 
 download_images: build_scripts
-	node scripts/index.js -d ./content
+	node scripts/index.js -d ./content --development
 
 .PHONY: build_scripts download_images build_hugo
