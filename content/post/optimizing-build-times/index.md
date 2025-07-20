@@ -65,3 +65,18 @@ Expectations:
 
 1. All previously downloaded files should not be re downloaded
 2. New files from new `images.yml` file should be downloaded.
+
+Edit:
+Looks like it worked.
+{{<figure src="/post/optimizing-build-times/Optimizing-Build-Times/ksnip_20250720-132244.png">}}
+
+I accidentally committed the image files inside, because .gitignore was not setup to ignore .png files. Added that. Because of this, the initial download too didn't happen.
+
+Changed the .gitignore rule, and then git rm'd the file. Looks like worked okay.
+
+Test 3:
+Added a new file into existing `images.yml`.
+Expectations:
+
+1. All previously downloaded images should continue to exist and speed up the build
+2. Should download the new file
