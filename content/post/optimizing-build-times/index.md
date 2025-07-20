@@ -80,3 +80,33 @@ Expectations:
 
 1. All previously downloaded images should continue to exist and speed up the build
 2. Should download the new file
+
+Edit:
+Failed. Because the caching was applied on entire `content` folder, even the `index.md` and `images.yml` got over written by cached version.
+Updated the rule to only cache image files.
+
+```
+      - name: Restore image cache
+        id: cache-images
+        uses: actions/cache@v3
+        with:
+          # Cache only downloaded image files, not content files
+          path: |
+            content/**/images/
+            content/**/*.jpg
+            content/**/*.jpeg
+            content/**/*.png
+            content/**/*.gif
+            content/**/*.webp
+          # Cache key changes when any images.yml file is modified
+          key: images-v2-${{ runner.os }}-${{ hashFiles('**/images.yml') }}
+          # Fallback to the most recent cache even if the hash changes
+          restore-keys: |
+            images-v2-${{ runner.os }}-
+```
+
+Test 4:
+Expectations:
+
+1. First build should take longer, and redownload everything
+2. Second build onwards, only new/edited files should be downloaded, including if `images.yml` is updated

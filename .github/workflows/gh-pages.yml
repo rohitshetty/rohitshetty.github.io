@@ -22,14 +22,19 @@ jobs:
         id: cache-images
         uses: actions/cache@v3
         with:
-          # All downloaded images live inside the content directory
+          # Cache only downloaded image files, not content files
           path: |
-            content
+            content/**/images/
+            content/**/*.jpg
+            content/**/*.jpeg
+            content/**/*.png
+            content/**/*.gif
+            content/**/*.webp
           # Cache key changes when any images.yml file is modified
-          key: images-${{ runner.os }}-${{ hashFiles('**/images.yml') }}
+          key: images-v2-${{ runner.os }}-${{ hashFiles('**/images.yml') }}
           # Fallback to the most recent cache even if the hash changes
           restore-keys: |
-            images-${{ runner.os }}-
+            images-v2-${{ runner.os }}-
 
       - name: Read .env
         id: hugo-version
