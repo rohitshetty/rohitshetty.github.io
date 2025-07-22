@@ -1,0 +1,23 @@
+/* Simple table - matching blog exactly */
+.neat-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-family: 'Arvo', serif;
+  font-size: 1rem;
+  line-height: 1.6;
+  background-color: #fbfbfb;
+  color: #303030;
+}
+
+/* All cells - same styling, just borders */
+.neat-table td,
+.neat-table th {
+  padding: 8px 12px;
+  border: 1px solid #e5e5e5;
+  background-color: #fbfbfb;
+  text-align: left;
+  vertical-align: top;
+}
+
+ 

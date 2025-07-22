@@ -1,0 +1,8 @@
+/* Strava embed styling */
+.strava-embed-container {
+  /* Sets the maximum width of the embed */
+  max-width: 550px; 
+  
+  /* Adds space above/below and centers it horizontally */
+  margin: 2rem auto; 
+} 

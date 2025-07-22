@@ -1,0 +1,15 @@
+
+
+{{/* Get the activity ID from the first parameter */}}
+{{- $id := .Get 0 -}}
+
+{{- if not $id -}}
+  {{- errorf "The 'strava' shortcode requires an activity ID. Usage: {{< strava 'ACTIVITY_ID' >}}" -}}
+{{- else -}}
+<div class="strava-embed-container">
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="{{$id}}" data-style="standard" data-from-embed="false"></div>
+</div>
+<script src="https://strava-embeds.com/embed.js"></script>
+
+
+{{- end -}}
