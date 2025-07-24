@@ -4,6 +4,10 @@ date: 2025-07-22T18:23:24+05:30
 draft: false
 ---
 
+**If you're wondering what this is about** - _One year ago I crawled through a 5K in 50 minutes—now I'm attempting the slightly unhinged goal of running a sub-2-hour half marathon, documented through daily brain dumps complete with training chaos, 5 AM existential crises, random tangents, and way too much heart rate data._
+
+---
+
 **Sleep**: 5h14m – Low  
 [**RHR**](https://www.polar.com/en/guide/resting-heart-rate): 55 bpm  
 [**HRV**](https://www.polar.com/en/guide/heart-rate-variability-hrv): 86 ms  
