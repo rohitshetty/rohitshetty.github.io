@@ -12,7 +12,7 @@ theme = [ 'hugo-shortcode-gallery','hugo-journal']
   githubUsername = "rohitshetty"
   tagline = "Journal about work, not work, projects, coffee and everything else"
 [params.work]
-  jobTitle = "Developer"
+  jobTitle = "Co-founder and Engineer"
   company = "Beneath A Tree Consultancy"
   companyUrl = "https://beneathatree.com/"
 [params.work2]
