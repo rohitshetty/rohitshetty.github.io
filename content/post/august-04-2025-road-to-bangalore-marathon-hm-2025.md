@@ -28,7 +28,7 @@ draft: false
 
 ## Pre-Run Brain Dumps
 
-I took it light these last 2 weeks. The week before last was supposed to be a deload week — but the mileage I hit was lower than target. Last week I just ran twice. I was trying to nurse an injury near my inner hip flexor that flares up after the first few kilometers. I'm not sure about the cause behind it. I've been doing some hip strengthening routine, along with Myrtle. Saturday's run with MRC was better. I did around 6K. There was some soreness, but it didn't feel bad.
+I took it light these last 2 weeks. The week before last was supposed to be a deload week — but the mileage I hit was lower than target. Last week I just ran twice. I was trying to nurse an injury near my inner hip flexor that flares up after the first few kilometers. I'm not sure about the cause behind it. I've been doing some hip strengthening routine, along with Myrtle. Saturday's run with [MCR](https://www.strava.com/clubs/1505779) was better. I did around 6K. There was some soreness, but it didn't feel bad.
 
 I'm worried that I may have lost the battle already with my goal. Because of this pain and then the break. But also, I've been training well so far, I think — and earlier too. So I shouldn't be worrying much about missing these two weeks. I can reduce the next deload week a bit or even skip it entirely.
 
