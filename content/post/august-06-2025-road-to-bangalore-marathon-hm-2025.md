@@ -42,7 +42,7 @@ I'm not sure if I can do this distance and pace yet—my best 10K was in June at
 
 This run was awesome. I was able to hit 5'45" for 10K. This has been my PB since the Jatre run in June. I shaved around 2 minutes off my 10K time, completing it in 57 minutes 23 seconds.
 
-My heart rate was stable around 180 bpm, averaging 177 bpm, with a max of 188 bpm. The first 5K was fast (and a new PB at 28:08). My legs started to become a bit heavier in the last 2K. I think I wasn't dead at the 10K mark, but I was surely glad that the run had ended.
+My heart rate was stable around 180 bpm, averaging 180 bpm, with a max of 188 bpm. The first 5K was fast (and a new PB at 28:08). My legs started to become a bit heavier in the last 2K. I think I wasn't dead at the 10K mark, but I was surely glad that the run had ended.
 
 Also, this new PB could be because this terrain is simply flatter than the Jatre course, and the new shoes may have had an impact. But nevertheless, it feels like a much-needed win.
 
